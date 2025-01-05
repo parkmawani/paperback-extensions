@@ -40,7 +40,7 @@ export const DEFAULT_URL = "http://manatoki.net"
 export const ManaTokiInfo: SourceInfo = {
   name: "ManaToki (마나토끼)",
   icon: "icon.png",
-  websiteBaseURL: DEFAULT_URL,
+  websiteBaseURL: "http://manatoki466.net",
   version: "0.1.0",
   description: "Extension that scrapes webtoons from 마나토끼.",
   author: "Nouun",
