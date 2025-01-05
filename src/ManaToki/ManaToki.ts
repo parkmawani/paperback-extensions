@@ -40,7 +40,7 @@ export const DEFAULT_URL = "http://manatoki.net"
 export const ManaTokiInfo: SourceInfo = {
   name: "ManaToki (마나토끼)",
   icon: "icon.png",
-  websiteBaseURL: "http://manatoki466.net",
+  websiteBaseURL: DEFAULT_URL,
   version: "0.1.0",
   description: "Extension that scrapes webtoons from 마나토끼.",
   author: "Nouun",
@@ -56,8 +56,8 @@ export const ManaTokiInfo: SourceInfo = {
 };
 
 export class ManaToki extends Source {
-  URL = DEFAULT_URL;
-
+  // URL = DEFAULT_URL;
+  URL = "http://manatoki466.net"
   requestManager = createRequestManager({
     requestsPerSecond: 0.5,
     requestTimeout: 10000,
