@@ -174,7 +174,7 @@ export class ManaToki extends Source {
 
     const data = await this.requestManager.schedule(req, 2);
     
-    console.log("Original Script: " + data);
+    console.log("Original Script2: " + data);
     return parseChapterDetails(data.data, this.cheerio, mangaId, id);
   }
 

@@ -177,6 +177,8 @@ export const parseChapterDetails =
         .map((attribs) => attribs[
           Object.keys(attribs).filter((attrib) => attrib.startsWith("data-"))[0] ?? "data"
         ]);
+      console.log("Pages : " + pages);
+        
     } catch (err) {
       throw Error(`Unable to evaluate server chapter code.\n${err}`);
     }
