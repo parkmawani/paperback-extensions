@@ -35,7 +35,7 @@ import {
 } from "./TokiParser";
 import { URLBuilder } from "./GeneralHelper";
 
-export const DEFAULT_URL = (await getStateData(this.stateManager)).domain;
+export const DEFAULT_URL = "http://manatoki.net"
 
 export const ManaTokiInfo: SourceInfo = {
   name: "ManaToki (마나토끼)",
