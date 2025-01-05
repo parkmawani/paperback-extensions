@@ -35,7 +35,7 @@ import {
 } from "./TokiParser";
 import { URLBuilder } from "./GeneralHelper";
 
-export const DEFAULT_URL = "http://manatoki.net"
+export const DEFAULT_URL = "http://manatoki466.net"
 
 export const ManaTokiInfo: SourceInfo = {
   name: "ManaToki (마나토끼)",
@@ -56,9 +56,9 @@ export const ManaTokiInfo: SourceInfo = {
 };
 
 export class ManaToki extends Source {
-  // URL = DEFAULT_URL;
-  URL = this.getBaseURL();
-  
+  URL = DEFAULT_URL;
+  // URL = this.getBaseURL();
+
   requestManager = createRequestManager({
     requestsPerSecond: 0.5,
     requestTimeout: 10000,
