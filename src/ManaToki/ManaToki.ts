@@ -173,7 +173,8 @@ export class ManaToki extends Source {
     });
 
     const data = await this.requestManager.schedule(req, 2);
-
+    
+    console.log("Original Script: " + data);
     return parseChapterDetails(data.data, this.cheerio, mangaId, id);
   }
 
@@ -203,7 +204,7 @@ export class ManaToki extends Source {
         }),
         section: createHomeSection({
           id: 'list',
-          title: '만화목록2',
+          title: '만화목록',
           view_more: true
         }),
       },
