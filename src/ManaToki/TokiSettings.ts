@@ -9,7 +9,8 @@ export type StateData = {
 
 export const getStateData =
   async (stateManager: SourceStateManager): Promise<StateData> => {
-    const domain = (await stateManager.retrieve("domain") as string);
+    const domain = (await stateManager.retrieve("domain") as string)
+      || "https://manatoki.net";
 
     return { domain };
   };
