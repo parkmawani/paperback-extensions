@@ -57,7 +57,6 @@ export const ManaTokiInfo: SourceInfo = {
 
 export class ManaToki extends Source {
   URL = DEFAULT_URL;
-  // URL = this.getBaseURL();
 
   requestManager = createRequestManager({
     requestsPerSecond: 0.5,
@@ -204,7 +203,7 @@ export class ManaToki extends Source {
         }),
         section: createHomeSection({
           id: 'list',
-          title: '만화목록',
+          title: '만화목록2',
           view_more: true
         }),
       },
