@@ -57,7 +57,8 @@ export const ManaTokiInfo: SourceInfo = {
 
 export class ManaToki extends Source {
   // URL = DEFAULT_URL;
-  URL = "http://manatoki466.net"
+  URL = this.getBaseURL();
+  
   requestManager = createRequestManager({
     requestsPerSecond: 0.5,
     requestTimeout: 10000,
