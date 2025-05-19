@@ -133,16 +133,16 @@ export class ManaToki extends Source {
     return parseSearchTags(cheerio);
   }
 
-  async getMangaDetails(mangaId: string): Promise<Manga> {
+  override async getMangaDetails(mangaId: string): Promise<Manga> {
   const req = createRequestObject({
     url: (await this.getBaseURL()).addPath("comic").addPath(mangaId).build(),
     method: "GET",
   });
 
-  const response = await this.requestManager.schedule(req, 1);
+  const response = await this.requestManager.schedule(req, 2);
   const $ = this.cheerio.load(response.data);
 
-  return parseMangaDetails($, mangaId);
+  return parseMangaDetails($, mangaId); // 👉 이게 createManga(...) 반환해야 함
 }
 
   async getChapters(mangaId: string): Promise<Chapter[]> {
