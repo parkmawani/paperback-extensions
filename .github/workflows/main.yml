@@ -1,4 +1,4 @@
-name: Bundle and Publish Sourcess
+name: Bundle and Publish Sources
 on: 
   push:
     branches:
