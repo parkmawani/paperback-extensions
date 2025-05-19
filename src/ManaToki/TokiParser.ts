@@ -87,24 +87,26 @@ export const parseSearchTags = ($: CheerioAPI): TagSection[] => {
 };
 
 export const parseMangaDetails = ($: CheerioAPI, id: string): Manga => {
-  const el = $(".view-title > .view-content > .row");
-  const image = $("div > .view-content1 > .view-img > img", el).attr("src");
-  const titles = [
-    $("div > .view-content > span > b", el).text()
-      .trim(),
-  ];
-  const descEl = $("div > .view-content", el).get(1);
-  const desc = $(descEl)
-    .text()
-    .trim();
+  try {
+    const el = $(".view-title > .view-content > .row");
+    const image = $("div > .view-content1 > .view-img > img", el).attr("src") || '';
+    const titles = [
+      $("div > .view-content > span > b", el).text().trim() || '제목 없음',
+    ];
+    const descEl = $("div > .view-content", el).get(1);
+    const desc = descEl ? $(descEl).text().trim() : 'No description';
 
-  return createManga({
-    id,
-    image,
-    titles,
-    desc,
-    status: MangaStatus.UNKNOWN,
-  });
+    return createManga({
+      id,
+      image,
+      titles,
+      desc,
+      status: MangaStatus.UNKNOWN,
+    });
+  } catch (e) {
+    console.log(`parseMangaDetails 오류: ${e}`);
+    throw e;
+  }
 };
 
 export const parseChapters = ($: CheerioAPI, mangaId: string): Chapter[] => {
