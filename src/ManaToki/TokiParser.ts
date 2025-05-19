@@ -86,7 +86,7 @@ export const parseSearchTags = ($: CheerioAPI): TagSection[] => {
   ];
 };
 
-export const parseMangaDetails = ($) => {
+const parseMangaDetails = ($) => {
   const title = $('.view-content span b').first().text().trim();
   const coverImg = $('.view-img img').attr('src');
   const author = $('div.view-content')
@@ -106,12 +106,25 @@ export const parseMangaDetails = ($) => {
     .text()
     .trim();
 
+  // 디버깅 정보 desc로 몰아넣기
+  const desc = `
+🔍 [디버깅 정보]
+Title: ${title}
+Author: ${author}
+Genres: ${genres.join(', ')}
+PublishType: ${publishType}
+CoverImg: ${coverImg}
+  `.trim();
+
   return {
-    title,
-    coverImg,
-    author,
-    genres,
-    publishType,
+    id: title || 'unknown',
+    titles: [title],
+    image: coverImg,
+    author: author,
+    desc: desc,
+    status: 1, // MangaStatus.ONGOING 대신 숫자 쓰면 편함
+    tags: [],
+    lang: 'ko',
   };
 };
 
