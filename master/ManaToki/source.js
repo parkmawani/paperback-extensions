@@ -704,7 +704,7 @@ class NewTokiInterceptor {
 },{"./GeneralHelper":48,"./TokiParser":50,"./TokiSettings":51,"paperback-extensions-common":5}],50:[function(require,module,exports){
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.parseHomeList = exports.parseHomeUpdates = exports.parseChapterDetails = exports.parseChapters = exports.parseSearchTags = exports.parseSearchResults = void 0;
+exports.parseHomeList = exports.parseHomeUpdates = exports.parseChapterDetails = exports.parseChapters = exports.parseMangaDetails = exports.parseSearchTags = exports.parseSearchResults = void 0;
 const paperback_extensions_common_1 = require("paperback-extensions-common");
 const GeneralHelper_1 = require("./GeneralHelper");
 const parseTime = (timeString) => {
@@ -798,6 +798,7 @@ const parseMangaDetails = ($) => {
         publishType,
     };
 };
+exports.parseMangaDetails = parseMangaDetails;
 const parseChapters = ($, mangaId) => {
     const chapters = $("#serial-move > .serial-list > .list-body > .list-item").toArray();
     return chapters.map((chapter) => {
