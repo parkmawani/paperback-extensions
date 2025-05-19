@@ -704,7 +704,7 @@ class NewTokiInterceptor {
 },{"./GeneralHelper":48,"./TokiParser":50,"./TokiSettings":51,"paperback-extensions-common":5}],50:[function(require,module,exports){
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.parseHomeList = exports.parseHomeUpdates = exports.parseChapterDetails = exports.parseChapters = exports.parseMangaDetails = exports.parseSearchTags = exports.parseSearchResults = void 0;
+exports.parseHomeList = exports.parseHomeUpdates = exports.parseChapterDetails = exports.parseChapters = exports.parseSearchTags = exports.parseSearchResults = void 0;
 const paperback_extensions_common_1 = require("paperback-extensions-common");
 const GeneralHelper_1 = require("./GeneralHelper");
 const parseTime = (timeString) => {
@@ -790,15 +790,26 @@ const parseMangaDetails = ($) => {
         .find('a')
         .text()
         .trim();
+    // 디버깅 정보 desc로 몰아넣기
+    const desc = `
+🔍 [디버깅 정보]
+Title: ${title}
+Author: ${author}
+Genres: ${genres.join(', ')}
+PublishType: ${publishType}
+CoverImg: ${coverImg}
+  `.trim();
     return {
-        title,
-        coverImg,
-        author,
-        genres,
-        publishType,
+        id: title || 'unknown',
+        titles: [title],
+        image: coverImg,
+        author: author,
+        desc: desc,
+        status: 1,
+        tags: [],
+        lang: 'ko',
     };
 };
-exports.parseMangaDetails = parseMangaDetails;
 const parseChapters = ($, mangaId) => {
     const chapters = $("#serial-move > .serial-list > .list-body > .list-item").toArray();
     return chapters.map((chapter) => {
