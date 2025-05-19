@@ -86,7 +86,7 @@ export const parseSearchTags = ($: CheerioAPI): TagSection[] => {
   ];
 };
 
-const parseMangaDetails = ($) => {
+export const parseMangaDetails = ($) => {
   const title = $('.view-content span b').first().text().trim();
   const coverImg = $('.view-img img').attr('src');
   const author = $('div.view-content')
