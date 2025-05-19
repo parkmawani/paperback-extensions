@@ -134,34 +134,16 @@ export class ManaToki extends Source {
   }
 
   async getMangaDetails(mangaId: string): Promise<Manga> {
-    const req = createRequestObject({
-        url: (await this.getBaseURL()).addPath("comic").addPath(mangaId).build(),
-        method: "GET",
-    });
+  const req = createRequestObject({
+    url: (await this.getBaseURL()).addPath("comic").addPath(mangaId).build(),
+    method: "GET",
+  });
 
-    const response = await this.requestManager.schedule(req, 1);
-    const $ = this.cheerio.load(response.data);
+  const response = await this.requestManager.schedule(req, 1);
+  const $ = this.cheerio.load(response.data);
 
-    const title = $('h1.comic-title').text().trim() || '제목 없음';
-    const image = $('div.cover img').attr('src') ?? '';
-    const author = $('span.author').text().trim();
-    const desc = $('div.description').text().trim();
-
-    return createManga({
-        id: mangaId,
-        title: createIconText({ text: title }),
-        image,
-        author,
-        desc,
-        status: MangaStatus.ONGOING,
-    });
+  return parseMangaDetails($, mangaId);
 }
-
-    const data = await this.requestManager.schedule(req, 2);
-    const cheerio = this.cheerio.load(data.data);
-
-    return parseMangaDetails(cheerio, mangaId);
-  }
 
   async getChapters(mangaId: string): Promise<Chapter[]> {
     const req = createRequestObject({
