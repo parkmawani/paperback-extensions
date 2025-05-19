@@ -1,4 +1,7 @@
 import {
+  createManga,
+  createTagSection,
+  createTag,
   Chapter,
   ChapterDetails,
   LanguageCode,
@@ -86,56 +89,56 @@ export const parseSearchTags = ($: CheerioAPI): TagSection[] => {
   ];
 };
 
-export const parseMangaDetails = ($, mangaId) => {
+export const parseMangaDetails = ($: CheerioStatic, mangaId: string): Manga => {
   const title = $('.view-content span b').first().text().trim();
-  console.log('[DEBUG] title:', title);
-
-  const cover = $('.view-img img').attr('src');
-  console.log('[DEBUG] cover:', cover);
+  const coverImg = $('.view-img img').attr('src') || '';
 
   const author = $('div.view-content')
-    .filter((i, el) => $(el).text().includes('작가'))
+    .filter((_, el) => $(el).text().includes('작가'))
     .find('a')
     .text()
     .trim();
-  console.log('[DEBUG] author:', author);
 
-  const genres = [];
-  $('div.view-content.tags a').each((i, el) => {
-    const genre = $(el).text().trim();
-    genres.push(genre);
+  const genres: string[] = [];
+  $('div.view-content.tags a').each((_, el) => {
+    genres.push($(el).text().trim());
   });
-  console.log('[DEBUG] genres:', genres);
 
-  const publishType = $('div.view-content')
-    .filter((i, el) => $(el).text().includes('발행구분'))
+  // 상태 텍스트 추출 (예: '격주')
+  const statusText = $('div.view-content')
+    .filter((_, el) => $(el).text().includes('발행구분'))
     .find('a')
     .text()
     .trim();
-  console.log('[DEBUG] publishType:', publishType);
 
-  const status = publishType.includes('완결') ? 1 : 0;
-  console.log('[DEBUG] status:', status);
-
-  const result = {
-    id: mangaId,
-    cover,
-    title,
-    author,
-    tags: [
-      {
-        id: '0',
-        label: 'genres',
-        tags: genres.map(g => ({ id: g, label: g })),
-      },
-    ],
-    status,
-    desc: '',
-    hentai: false,
+  // 상태 파싱 함수 (예시)
+  const parseMangaStatus = (status: string): number => {
+    switch (status) {
+      case '완결': return 2; // Completed
+      case '연재': return 1; // Ongoing
+      case '휴재': return 3; // Hiatus
+      default: return 0; // Unknown
+    }
   };
 
-  console.log('[DEBUG] final result:', result);
-  return result;
+  // 태그 섹션 만들기 (genres와 tags 구분 없으면 한 섹션으로)
+  const tagSection: TagSection = createTagSection({
+    id: '0',
+    label: 'genres',
+    tags: genres.map(genre => createTag({ id: genre, label: genre }))
+  });
+
+  return createManga({
+    id: mangaId,
+    titles: [title],
+    image: coverImg,
+    status: parseMangaStatus(statusText),
+    author: author,
+    artist: author, // 작가=아티스트로 처리
+    desc: '', // 설명 추가 파싱 가능하면 넣기
+    tags: [tagSection],
+    lastUpdate: undefined, // 필요 시 추가
+  });
 };
 
 export const parseChapters = ($: CheerioAPI, mangaId: string): Chapter[] => {
