@@ -35,7 +35,7 @@ import {
 } from "./TokiParser";
 import { URLBuilder } from "./GeneralHelper";
 
-export const DEFAULT_URL = "http://manatoki466.net"
+export const DEFAULT_URL = "http://manatoki468.net"
 
 export const ManaTokiInfo: SourceInfo = {
   name: "ManaToki (마나토끼)",
@@ -135,12 +135,27 @@ export class ManaToki extends Source {
 
   async getMangaDetails(mangaId: string): Promise<Manga> {
     const req = createRequestObject({
-      url: (await this.getBaseURL())
-        .addPath("comic")
-        .addPath(mangaId)
-        .build(),
-      method: "GET",
+        url: (await this.getBaseURL()).addPath("comic").addPath(mangaId).build(),
+        method: "GET",
     });
+
+    const response = await this.requestManager.schedule(req, 1);
+    const $ = this.cheerio.load(response.data);
+
+    const title = $('h1.comic-title').text().trim(); // 예시
+    const image = $('div.cover img').attr('src') ?? '';
+    const author = $('span.author').text();
+    const desc = $('div.description').text();
+
+    return createManga({
+        id: mangaId,
+        title: createIconText({ text: title }),
+        image,
+        author,
+        desc,
+        status: MangaStatus.ONGOING,
+    });
+}
 
     const data = await this.requestManager.schedule(req, 2);
     const cheerio = this.cheerio.load(data.data);
