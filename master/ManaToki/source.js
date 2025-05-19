@@ -774,23 +774,26 @@ const parseSearchTags = ($) => {
 };
 exports.parseSearchTags = parseSearchTags;
 const parseMangaDetails = ($, id) => {
-    const el = $(".view-title > .view-content > .row");
-    const image = $("div > .view-content1 > .view-img > img", el).attr("src");
-    const titles = [
-        $("div > .view-content > span > b", el).text()
-            .trim(),
-    ];
-    const descEl = $("div > .view-content", el).get(1);
-    const desc = $(descEl)
-        .text()
-        .trim();
-    return createManga({
-        id,
-        image,
-        titles,
-        desc,
-        status: paperback_extensions_common_1.MangaStatus.UNKNOWN,
-    });
+    try {
+        const el = $(".view-title > .view-content > .row");
+        const image = $("div > .view-content1 > .view-img > img", el).attr("src") || '';
+        const titles = [
+            $("div > .view-content > span > b", el).text().trim() || '제목 없음',
+        ];
+        const descEl = $("div > .view-content", el).get(1);
+        const desc = descEl ? $(descEl).text().trim() : 'No description';
+        return createManga({
+            id,
+            image,
+            titles,
+            desc,
+            status: paperback_extensions_common_1.MangaStatus.UNKNOWN,
+        });
+    }
+    catch (e) {
+        console.log(`parseMangaDetails 오류: ${e}`);
+        throw e;
+    }
 };
 exports.parseMangaDetails = parseMangaDetails;
 const parseChapters = ($, mangaId) => {
