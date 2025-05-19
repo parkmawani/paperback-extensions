@@ -535,9 +535,9 @@ class ManaToki extends paperback_extensions_common_1.Source {
                 url: (yield this.getBaseURL()).addPath("comic").addPath(mangaId).build(),
                 method: "GET",
             });
-            const response = yield this.requestManager.schedule(req, 1);
+            const response = yield this.requestManager.schedule(req, 2);
             const $ = this.cheerio.load(response.data);
-            return (0, TokiParser_1.parseMangaDetails)($, mangaId);
+            return (0, TokiParser_1.parseMangaDetails)($, mangaId); // 👉 이게 createManga(...) 반환해야 함
         });
     }
     getChapters(mangaId) {
