@@ -773,42 +773,49 @@ const parseSearchTags = ($) => {
     ];
 };
 exports.parseSearchTags = parseSearchTags;
-const parseMangaDetails = ($) => {
+const parseMangaDetails = ($, mangaId) => {
     const title = $('.view-content span b').first().text().trim();
-    const coverImg = $('.view-img img').attr('src');
+    console.log('[DEBUG] title:', title);
+    const cover = $('.view-img img').attr('src');
+    console.log('[DEBUG] cover:', cover);
     const author = $('div.view-content')
         .filter((i, el) => $(el).text().includes('작가'))
         .find('a')
         .text()
         .trim();
+    console.log('[DEBUG] author:', author);
     const genres = [];
     $('div.view-content.tags a').each((i, el) => {
-        genres.push($(el).text().trim());
+        const genre = $(el).text().trim();
+        genres.push(genre);
     });
+    console.log('[DEBUG] genres:', genres);
     const publishType = $('div.view-content')
         .filter((i, el) => $(el).text().includes('발행구분'))
         .find('a')
         .text()
         .trim();
-    // 디버깅 정보 desc로 몰아넣기
-    const desc = `
-🔍 [디버깅 정보]
-Title: ${title}
-Author: ${author}
-Genres: ${genres.join(', ')}
-PublishType: ${publishType}
-CoverImg: ${coverImg}
-  `.trim();
-    return {
-        id: title || 'unknown',
-        titles: [title],
-        image: coverImg,
-        author: author,
-        desc: desc,
-        status: 1,
-        tags: [],
-        lang: 'ko',
+    console.log('[DEBUG] publishType:', publishType);
+    const status = publishType.includes('완결') ? 1 : 0;
+    console.log('[DEBUG] status:', status);
+    const result = {
+        id: mangaId,
+        cover,
+        title,
+        author,
+        tags: [
+            {
+                id: '0',
+                label: 'genres',
+                tags: genres.map(g => ({ id: g, label: g })),
+            },
+        ],
+        status,
+        desc: '',
+        hentai: false,
     };
+    console.log('[DEBUG] final result:', result);
+    return result;
 };
 exports.parseMangaDetails = parseMangaDetails;
 const parseChapters = ($, mangaId) => {
