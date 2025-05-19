@@ -142,10 +142,10 @@ export class ManaToki extends Source {
     const response = await this.requestManager.schedule(req, 1);
     const $ = this.cheerio.load(response.data);
 
-    const title = $('h1.comic-title').text().trim(); // 예시
+    const title = $('h1.comic-title').text().trim() || '제목 없음';
     const image = $('div.cover img').attr('src') ?? '';
-    const author = $('span.author').text();
-    const desc = $('div.description').text();
+    const author = $('span.author').text().trim();
+    const desc = $('div.description').text().trim();
 
     return createManga({
         id: mangaId,
