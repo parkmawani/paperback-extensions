@@ -86,27 +86,33 @@ export const parseSearchTags = ($: CheerioAPI): TagSection[] => {
   ];
 };
 
-export const parseMangaDetails = ($: CheerioAPI, id: string): Manga => {
-  try {
-    const el = $(".view-title > .view-content > .row");
-    const image = $("div > .view-content1 > .view-img > img", el).attr("src") || '';
-    const titles = [
-      $("div > .view-content > span > b", el).text().trim() || '제목 없음',
-    ];
-    const descEl = $("div > .view-content", el).get(1);
-    const desc = descEl ? $(descEl).text().trim() : 'No description';
+const parseMangaDetails = ($) => {
+  const title = $('.view-content span b').first().text().trim();
+  const coverImg = $('.view-img img').attr('src');
+  const author = $('div.view-content')
+    .filter((i, el) => $(el).text().includes('작가'))
+    .find('a')
+    .text()
+    .trim();
 
-    return createManga({
-      id,
-      image,
-      titles,
-      desc,
-      status: MangaStatus.UNKNOWN,
-    });
-  } catch (e) {
-    console.log(`parseMangaDetails 오류: ${e}`);
-    throw e;
-  }
+  const genres = [];
+  $('div.view-content.tags a').each((i, el) => {
+    genres.push($(el).text().trim());
+  });
+
+  const publishType = $('div.view-content')
+    .filter((i, el) => $(el).text().includes('발행구분'))
+    .find('a')
+    .text()
+    .trim();
+
+  return {
+    title,
+    coverImg,
+    author,
+    genres,
+    publishType,
+  };
 };
 
 export const parseChapters = ($: CheerioAPI, mangaId: string): Chapter[] => {
