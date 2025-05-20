@@ -1,0 +1,3200 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="robots" content="index,follow" />
+<meta name="title" content="단행본 1 페이지 | 마나토끼 - 일본만화 허브" />
+<meta name="publisher" content="마나토끼 - 일본만화 허브" />
+<meta name="author" content="마나토끼" />
+<meta name="robots" content="noindex" />
+<meta name="keywords" content="마나토끼, 웹툰미리보기, 웹툰미리보기사이트, 네이버웹툰미리보기, 다음웹툰, 네이버웹툰, 밤토끼, 밤토키, 툰코, 호두코믹스, 무료웹툰, 유료웹툰, 웹툰사이트, 웹툰, 성인웹툰, 무료만화, 유료만화, 만화, 포토툰, 만화미리보기, 레진코믹스, 짬툰, 탑툰, 썰만화, 썰툰, 마나토끼 - 일본만화 허브" />
+<meta name="description" content="단행본 1 페이지 | 마나토끼 - 일본만화 허브 각종 웹툰 미리보기 No.1 마나토끼, 마나토끼에서 최신 정보를 받아보세요!" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:title" content="단행본 1 페이지 | 마나토끼 - 일본만화 허브" />
+<meta property="og:site_name" content="마나토끼 - 일본만화 허브" />
+<meta property="og:author" content="마나토끼" />
+<meta property="og:type" content="" />
+<meta property="og:description" content="단행본 1 페이지 | 마나토끼 - 일본만화 허브 각종 웹툰 미리보기 No.1 마나토끼, 마나토끼에서 최신 정보를 받아보세요!" />
+<meta property="og:url" content="http://manatoki468.net/comic/p1" />
+<script type="text/javascript" nonce="XOJ0BVE+zr3qdJZKBBAaLFbFzesxhK/xP1QmLnOdycs=" src="//lc.getunicorn.org?type=base-script&amp;request-id=715"></script>
+<link rel="canonical" href="https://manatoki468.net/comic/p1" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="/img/manatoki/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/manatoki/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/img/manatoki/favicon-16x16.png">
+<link rel="manifest" href="/img/manatoki/site.webmanifest">
+<link rel="mask-icon" href="/img/manatoki/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/img/manatoki/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/img/manatoki/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<title>단행본 1 페이지 | 마나토끼 - 일본만화 허브</title>
+<link rel="stylesheet" href="https://manatoki468.net/css/default.css?ver=221229">
+<link rel="stylesheet" href="https://manatoki468.net/css/apms.css?ver=221229">
+<link rel="stylesheet" href="https://manatoki468.net/thema/comic/assets/bs3/css/bootstrap.min.css" type="text/css"  class="thema-mode">
+<link rel="stylesheet" href="https://manatoki468.net/css/ionicons/css/ionicons.min.css" type="text/css">
+<link rel="stylesheet" href="https://manatoki468.net/thema/comic/colorset/Basic/colorset.css?ver=2.6" type="text/css"  class="thema-colorset">
+<link rel="stylesheet" href="https://manatoki468.net/thema/comic/colorset/Basic/menu-m.css?ver=2.4" type="text/css"  class="thema-colorset">
+<link rel="stylesheet" href="https://manatoki468.net/thema/comic/widget/basic-banner-simple4x3/widget.css?ver=221229">
+<link rel="stylesheet" href="https://manatoki468.net/thema/comic/widget/basic-banner-simple2/widget.css?ver=221229">
+<link rel="stylesheet" href="https://manatoki468.net/skin/board/toki_comic/style.css?ver=1.2" >
+<link rel="stylesheet" href="https://manatoki468.net/plugin/jquery-loadmask/jquery.loadmask.css" >
+<link rel="stylesheet" href="https://manatoki468.net/plugin/select2/css/select2.min.css" >
+<link rel="stylesheet" href="https://manatoki468.net/skin/board/toki_comic/list/toon-gallery/list.css?ver=1.4" >
+<link rel="stylesheet" href="https://manatoki468.net/thema/comic/widget/miso-outlogin/widget.css?ver=221229">
+<link rel="stylesheet" href="https://manatoki468.net/thema/comic/widget/basic-banner-simple-rand/widget.css?ver=221229">
+<link rel="stylesheet" href="https://manatoki468.net/thema/comic/widget/miso-post-list-comic/widget.css" >
+<!--[if lte IE 8]>
+<script src="https://manatoki468.net/js/html5.js"></script>
+<![endif]-->
+<script>
+// 자바스크립트에서 사용하는 전역변수 선언
+var g5_url       = "https://manatoki468.net";
+var g5_bbs_url   = "https://manatoki468.net/bbs";
+var g5_is_member = "1";
+var g5_is_admin  = "";
+var g5_is_mobile = "";
+var g5_bo_table  = "comic";
+var g5_sca       = "";
+var g5_pim       = "";
+var g5_editor    = "cheditor5";
+var g5_responsive    = "1";
+var g5_cookie_domain = "manatoki468.net";
+var g5_purl = "http://manatoki468.net/comic/p1";
+</script>
+<script src="https://manatoki468.net/js/jquery-1.11.3.min.js"></script>
+<script src="https://manatoki468.net/js/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://manatoki468.net/lang/korean/lang.js?ver=2212296"></script>
+<script src="https://manatoki468.net/js/common.js?ver=2212294"></script>
+<script src="https://manatoki468.net/js/wrest.js?ver=221229"></script>
+<script src="https://manatoki468.net/js/placeholders.min.js"></script>
+<script src="https://manatoki468.net/js/js.cookie-2.1.4.min.js"></script>
+<script src="https://manatoki468.net/js/jquery.visible.min.js"></script>
+<script src="https://manatoki468.net/js/apms.js?ver=2212292"></script>
+<script src="https://manatoki468.net/js/jquery.ba-throttle-debounce.min.js"></script>
+
+<link rel="stylesheet" href="https://manatoki468.net/js/font-awesome/css/font-awesome.min.css">
+<script src="https://manatoki468.net/plugin/apms/js/jquery.mobile.swipe.min.js"></script>
+<script src="https://manatoki468.net/js/jquery.sticky.js"></script>
+<script src="https://manatoki468.net/plugin/jquery-loadmask/jquery.loadmask.min.js"></script>
+<script src="https://manatoki468.net/plugin/select2/js/select2.min.js"></script>
+<script src="https://manatoki468.net/plugin/select2/js/i18n/ko.js"></script>
+<script src="https://manatoki468.net/js/list.min.js"></script>
+</head>
+<body class="responsive is-pc">
+	<h1 style="display:inline-block !important;position:absolute;top:0;left:0;margin:0 !important;padding:0 !important;font-size:0;line-height:0;border:0 !important;overflow:hidden !important">
+	단행본 1 페이지 | 마나토끼 - 일본만화 허브	</h1>
+<style> 
+		body { 
+		background-color: #333333;			}
+		.layout-boxed > .wrapper, .content-wrapper > .content { max-width:1200px; }
+	.no-responsive .wrapper, .no-responsive .main-header { min-width:1200px; }
+	.layout-boxed.left .wrapper { margin-left:0px; }
+	.layout-boxed.right .wrapper { margin-right:0px; }
+	.at-navbar .dropdown-menu ul { width: 180px; min-width: 180px; }
+			#at-wrap { padding-right:275px; }
+	#at-right { width:260px; }
+	</style>
+<link rel="stylesheet" href="https://manatoki468.net/plugin/jquery-ui/jquery-ui.css" type="text/css">
+<link rel="stylesheet" href="https://manatoki468.net/plugin/jquery-ui/style.css" type="text/css">
+<script src="https://manatoki468.net/plugin/jquery-ui/jquery-ui.min.js"></script>
+<script>
+jQuery(function($){
+    $.datepicker.regional["ko"] = {
+        closeText: "닫기",
+        prevText: "이전달",
+        nextText: "다음달",
+        currentText: "오늘",
+        monthNames: ["1월(JAN)","2월(FEB)","3월(MAR)","4월(APR)","5월(MAY)","6월(JUN)", "7월(JUL)","8월(AUG)","9월(SEP)","10월(OCT)","11월(NOV)","12월(DEC)"],
+        monthNamesShort: ["1월","2월","3월","4월","5월","6월", "7월","8월","9월","10월","11월","12월"],
+        dayNames: ["일","월","화","수","목","금","토"],
+        dayNamesShort: ["일","월","화","수","목","금","토"],
+        dayNamesMin: ["일","월","화","수","목","금","토"],
+        weekHeader: "Wk",
+        dateFormat: "yymmdd",
+        firstDay: 0,
+        isRTL: false,
+        showMonthAfterYear: true,
+        yearSuffix: ""
+    };
+	$.datepicker.setDefaults($.datepicker.regional["ko"]);
+});
+</script><div id="thema_wrapper" class="hold-transition ko layout-boxed skin-white-light sidebar-collapse header-menu">
+    <!-- Site wrapper -->
+    <div class="wrapper">
+        <header class="main-header">
+            <!-- Logo -->
+            <div class="logo">
+                <a href="https://manatoki468.net">
+                    <!-- mini logo for sidebar mini 50x50 pixels -->
+                    <span class="logo-mini"><img src="https://manatoki468.net/img/logo_newtoki.png"/></span>
+                    <!-- logo for regular state and mobile devices -->
+                    <span class="logo-lg"><img src="https://manatoki468.net/img/logo-full_manatoki3.png"/></span>
+                </a>
+            </div>
+            <!-- Header Navbar -->
+            <nav class="navbar navbar-static-top" role="navigation">
+                <a class="cursor sidebar-toggle" data-toggle="offcanvas" role="button">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+                                <div class="navbar-custom-menu">
+                    <ul class="nav navbar-nav">
+                                                <li id="top-search" class="dropdown tasks-menu">
+                            <a class="cursor dropdown-toggle" data-href="#" data-toggle="dropdown" style="padding:0px;">
+                                <div data-original-title="<nobr>검색</nobr>" data-toggle="tooltip" data-placement="bottom" data-html="true" style="padding:15px 8px 15px;">
+                                    <i class="fa fa-search"></i>
+                                </div>
+                            </a>
+                            <ul class="dropdown-menu ko-12">
+                                <li class="header">
+                                    <form name="tallsearch" method="get" action="/comic" onsubmit="return top_search(this);" role="form" class="form">
+                                        <div class="form-group row row-10" style="margin-bottom:8px;">
+                                            <div class="col-xs-8 col-10">
+                                                <input type="text" name="stx" class="form-control input-sm" value="" placeholder="두글자 이상 입력">
+                                            </div>
+                                            <div class="col-xs-4 col-10">
+                                                <button type="submit" class="btn btn-navy btn-sm btn-block"><i class="fa fa-search"></i> 검색</button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                    <script>
+                                        function top_search(f)
+                                        {
+                                            if (f.stx.value.length < 2) {
+                                                alert("검색어는 두글자 이상 입력하십시오.");
+                                                f.stx.select();
+                                                f.stx.focus();
+                                                return false;
+                                            }
+
+                                            return true;
+                                        }
+                                        jQuery( function() {
+                                            jQuery('#top-search').on('shown.bs.dropdown', function(){
+                                                jQuery(this).find('input[name="stx"]').focus().select();
+                                            });
+                                            //jQuery('form[name="tallsearch"] [name="stx"]:text').autocomplete({
+                                            //    source: "///search.ajax.php",
+                                            //    minLength: 1,
+                                            //    select: function(event, ui){
+                                            //        jQuery()
+                                            //    }
+                                            //});
+                                        } );
+                                    </script>
+                                </li>
+                            </ul>
+                        </li>
+                        <li data-toggle="control-sidebar">
+							<a class="cursor" data-href="#" data-original-title="<nobr>빠른메뉴</nobr>" data-toggle="tooltip" data-placement="bottom" data-html="true">
+								<i class="fa fa-folder-open"></i>
+							</a>
+						</li>
+                        <li>
+							<a class="cursor" href="https://manatoki468.net/bbs/random.php" data-original-title="<nobr>랜덤추천</nobr>" data-toggle="tooltip" data-placement="bottom" data-html="true">
+								<i class="fa fa-random"></i>
+							</a>
+						</li>
+                        <!--<li class="hidden-xs hidden-boxed">
+                            <a href="" target="_blank" data-original-title="<nobr>RSS</nobr>" data-toggle="tooltip" data-placement="bottom" data-html="true">
+                                <i class="fa fa-rss"></i>
+                            </a>
+                        </li>
+                        <li class="hidden-xs hidden-boxed">
+                            <a class="cursor" data-href="#" onclick="window.external.AddFavorite(parent.location.href,document.title);" data-original-title="<nobr>북마크</nobr>" data-toggle="tooltip" data-placement="bottom" data-html="true">
+                                <i class="fa fa-bookmark"></i>
+                            </a>
+                        </li>-->
+                                                <li class="hidden-xs">
+                            <a href="https://manatoki468.net/comic?device=mobile" target="_blank" data-original-title="<nobr>모바일</nobr>" data-toggle="tooltip" data-placement="bottom" data-html="true">
+                                <i class="fa fa-exchange"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                                    <div class="at-navbar pull-left hidden-sm">
+                        <div class="navbar-collapse collapse" id="navbar-collapse">
+                            <ul class="nav navbar-nav nav-13">
+                                                                                                            <li>
+                                            <a href="/page/update">
+                                                업데이트                                                                                            </a>
+                                        </li>
+                                                                                                                                                <li class="active">
+                                            <a href="/comic">
+                                                만화                                                                                            </a>
+                                        </li>
+                                                                                                                                                <li>
+                                            <a href="/site.php?id=1">
+                                                웹툰                                                                                            </a>
+                                        </li>
+                                                                                                                                                <li>
+                                            <a href="/site.php?id=3">
+                                                소설                                                                                            </a>
+                                        </li>
+                                                                                                                                                <li>
+                                            <a href="/guarantee.php?id=2" target="blank">
+                                                보증토토                                                                                            </a>
+                                        </li>
+                                                                                                                                                <li>
+                                            <a href="https://xn--lg3btl.com/" target="casino">
+                                                카지노                                                                                            </a>
+                                        </li>
+                                                                                                                                                <li class="dropdown">
+                                            <a href="https://manatoki468.net/mana_free" class="dropdown-toggle" data-hover="dropdown" data-close-others="true">
+                                                커뮤니티                                                                                                    <span class="label label-circle bg-red en">N&nbsp;</span>
+                                                                                            </a>
+                                            <div class="dropdown-menu dropdown-menu-head">
+                                                <ul class="pull-left">
+                                                                                                                                                                                                                                                                        <li class="sub-off">
+                                                            <a href="https://manatoki468.net/mana_free">
+                                                                마나게시판                                                                                                                                    <i class="fa fa-bolt red"></i>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                                                                                                                                                                                                                                            <li class="sub-off">
+                                                            <a href="https://manatoki468.net/humor">
+                                                                유머게시판                                                                                                                                    <i class="fa fa-bolt red"></i>
+                                                                                                                            </a>
+                                                        </li>
+                                                                                                                                                                                                                                                                                                                            <li class="sub-off">
+                                                            <a href="https://manatoki468.net/trantype">
+                                                                역식자게시판                                                                                                                            </a>
+                                                        </li>
+                                                                                                                                                                                                                                                                                                                            <li class="sub-off">
+                                                            <a href="https://manatoki468.net/origin">
+                                                                원본게시판                                                                                                                            </a>
+                                                        </li>
+                                                                                                                                                                                                                                                                                                                            <li class="dropdown-submenu sub-off">
+                                                            <a tabindex="-1" href="https://manatoki468.net/mana_request">
+                                                                요청게시판                                                                                                                                    <i class="fa fa-bolt red"></i>
+                                                                                                                                <i class="fa fa-caret-right sub-caret pull-right"></i>
+                                                            </a>
+                                                            <div class="dropdown-menu dropdown-menu-sub">
+                                                                <ul class="pull-left">
+                                                                                                                                                                                                                                                                                <li class="sub2-off">
+                                                                        <a tabindex="-1" href="https://manatoki468.net/mana_request?sca=%EC%9E%91%ED%92%88%EC%9A%94%EC%B2%AD">작품요청</a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                <li class="sub2-off">
+                                                                        <a tabindex="-1" href="https://manatoki468.net/mana_request?sca=%EC%88%98%EC%A0%95%EC%9A%94%EC%B2%AD">수정요청</a>
+                                                                    </li>
+                                                                                                                                    </ul>
+                                                                                                                                <div class="clearfix sub-nanum"></div>
+                                                            </div>
+                                                        </li>
+                                                                                                                                                                                                                                                                                                                            <li class="sub-off">
+                                                            <a href="https://manatoki468.net/mine">
+                                                                포인트 광산                                                                                                                            </a>
+                                                        </li>
+                                                                                                                                                                                                                                                                                                                            <li class="sub-off">
+                                                            <a href="https://manatoki468.net/monster">
+                                                                몬스터레이드                                                                                                                            </a>
+                                                        </li>
+                                                                                                                                                                                                                                                                                                                            <li class="sub-off">
+                                                            <a href="https://manatoki468.net/attendance">
+                                                                출석부                                                                                                                            </a>
+                                                        </li>
+                                                                                                                                                                                                                                                                                                                            <li class="sub-off">
+                                                            <a href="https://manatoki468.net/bbs/qalist.php">
+                                                                1:1 문의                                                                                                                            </a>
+                                                        </li>
+                                                                                                                                                                                                                                                                                                                            <li class="sub-off">
+                                                            <a href="https://manatoki468.net/notice">
+                                                                공지사항                                                                                                                            </a>
+                                                        </li>
+                                                                                                                                                        </ul>
+                                                                                                <div class="clearfix sub-nanum"></div>
+                                            </div>
+                                        </li>
+                                                                                                </ul>
+                        </div>
+                    </div>
+                            </nav>
+            
+        </header>
+
+        <!-- =============================================== -->
+
+        <!-- Left side column. contains the sidebar -->
+        <aside class="main-sidebar">
+            <section class="sidebar" style="display: none;">
+                <!-- Sidebar Menu -->
+
+<ul class="sidebar-menu">
+    <!-- Main Menu -->
+    <li class="treeview">
+        <a href="https://manatoki468.net">
+            <i class="fa fa-home"></i><span>메인</span>
+        </a>
+    </li>
+
+            <li class="treeview">
+            <a href="/page/update" class="old">
+                <i class='fa fa-history'></i><span>업데이트</span>
+                            </a>
+                    </li>
+            <li class="treeview active">
+            <a href="/comic" class="old">
+                <i class='fa fa-server'></i><span>만화</span>
+                            </a>
+                    </li>
+            <li class="treeview">
+            <a href="/site.php?id=1" class="old">
+                <i class='fa fa-picture-o'></i><span>웹툰</span>
+                            </a>
+                    </li>
+            <li class="treeview">
+            <a href="/site.php?id=3" class="old">
+                <i class="fa fa-circle"></i><span>소설</span>
+                            </a>
+                    </li>
+            <li class="treeview">
+            <a href="/guarantee.php?id=2" target="blank" class="old">
+                <i class="fa fa-circle"></i><span>보증토토</span>
+                            </a>
+                    </li>
+            <li class="treeview">
+            <a href="https://xn--lg3btl.com/" target="casino" class="old">
+                <i class="fa fa-circle"></i><span>카지노</span>
+                            </a>
+                    </li>
+            <li class="treeview">
+            <a href="https://manatoki468.net/mana_free" class="new">
+                <i class='fa fa-comments-o'></i><span>커뮤니티</span>
+                                    <small class="label pull-right bg-red en">new</small>
+                            </a>
+                            <ul class="treeview-menu">
+                                            <li>
+                            <a href="https://manatoki468.net/mana_free" class="new">
+                                                                    <small class="label pull-right bg-orange en">new</small>
+                                                                <i class="fa fa-circle-o"></i><span>마나게시판</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="https://manatoki468.net/humor" class="new">
+                                                                    <small class="label pull-right bg-orangered en">new</small>
+                                                                <i class="fa fa-circle-o"></i><span>유머게시판</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="https://manatoki468.net/trantype" class="old">
+                                                                <i class="fa fa-circle-o"></i><span>역식자게시판</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="https://manatoki468.net/origin" class="old">
+                                                                <i class="fa fa-circle-o"></i><span>원본게시판</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="https://manatoki468.net/mana_request" class="new">
+                                                                    <small class="label pull-right bg-red en">new</small>
+                                                                <i class="fa fa-circle-o"></i><span>요청게시판</span>
+                            </a>
+                                                            <ul class="treeview-menu">
+                                                                            <li>
+                                            <a href="https://manatoki468.net/mana_request?sca=%EC%9E%91%ED%92%88%EC%9A%94%EC%B2%AD" class="old">
+                                                                                                <i class="fa fa-genderless"></i><span>작품요청</span>
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a href="https://manatoki468.net/mana_request?sca=%EC%88%98%EC%A0%95%EC%9A%94%EC%B2%AD" class="old">
+                                                                                                <i class="fa fa-genderless"></i><span>수정요청</span>
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                                                    </li>
+                                            <li>
+                            <a href="https://manatoki468.net/mine" class="old">
+                                                                <i class="fa fa-circle-o"></i><span>포인트 광산</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="https://manatoki468.net/monster" class="old">
+                                                                <i class="fa fa-circle-o"></i><span>몬스터레이드</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="https://manatoki468.net/attendance" class="old">
+                                                                <i class="fa fa-circle-o"></i><span>출석부</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="https://manatoki468.net/bbs/qalist.php" class="old">
+                                                                <i class="fa fa-circle-o"></i><span>1:1 문의</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="https://manatoki468.net/notice" class="old">
+                                                                <i class="fa fa-circle-o"></i><span>공지사항</span>
+                            </a>
+                                                    </li>
+                                    </ul>
+                    </li>
+    
+    <!-- SIDE Menu -->
+    <!--<li class="header en">SIDE NAVIGATION</li>-->
+                    <li class="treeview">
+            <a href="#">
+                <i class="fa fa-angle-left pull-right"></i>
+                <i class="fa fa-user"></i><span>마이메뉴</span>
+            </a>
+            <ul class="treeview-menu">
+                <!--<li>
+                    <a href="">
+                        <i class="fa fa-dashboard"></i><span>마이페이지</span>
+                    </a>
+                </li>-->
+                <!--<li>
+                    <a href="" target="_blank" class="win_memo">
+                        <i class="fa fa-retweet"></i><span>내글반응</span>
+                    </a>
+                </li>-->
+                <li>
+                    <a href="https://manatoki468.net/bbs/profile.php" target="_blank" class="win_memo">
+                        <i class="fa fa-user"></i><span>프로필</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://manatoki468.net/bbs/memo.php" target="_blank" class="win_memo">
+                        <i class="fa fa-envelope-o"></i><span>쪽지함</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://manatoki468.net/bbs/follow.php" target="_blank" class="win_memo">
+                        <i class="fa fa-users"></i><span>팔로우</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://manatoki468.net/bbs/blockid_list.php" target="_blank" class="win_memo">
+                        <i class="fa fa-user-times"></i><span>차단회원</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://manatoki468.net/bbs/bookmark_list.php">
+                        <i class="fa fa-clone"></i><span>북마크</span>
+                    </a>
+                </li>
+                <!--<li>
+                    <a href="" target="_blank" class="win_scrap">
+                        <i class="fa fa-clone"></i><span>스크랩</span>
+                    </a>
+                </li>-->
+                <li>
+                    <a href="https://manatoki468.net/bbs/mypost.php" target="_blank" class="win_memo">
+                        <i class="fa fa-pencil"></i><span>내글관리</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://manatoki468.net/bbs/myphoto.php" target="_blank" class="win_memo">
+                        <i class="fa fa-camera"></i><span>사진등록</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://manatoki468.net/bbs/member_confirm.php?url=register_form.php">
+                        <i class="fa fa-user-plus"></i><span>정보수정</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://manatoki468.net/bbs/member_confirm.php?url=member_leave.php" class="leave-me">
+                        <i class="fa fa-sign-out"></i><span>탈퇴하기</span>
+                    </a>
+                </li>
+            </ul>
+        </li>
+    
+        </ul>
+
+<!-- =============================================== -->
+
+<div class="sidebar-misc">
+
+    <!-- search form -->
+    <form name="allsearch" action="https://manatoki468.net/bbs/search.php" method="get" onsubmit="return tsearch_submit(this);" class="sidebar-form en">
+        <!--<input type="hidden" name="url" value="">-->
+        <div class="input-group">
+            <input type="text" name="stx" class="form-control sidebar-input" value="" placeholder="Post Search...">
+            <span class="input-group-btn">
+				<button type="submit" id="search-btn" class="btn btn-flat"><i class="fa fa-search"></i></button>
+			</span>
+        </div>
+    </form>
+    <!-- /.search form -->
+
+    <!-- Sidebar User Panel -->
+            <div class="user-panel">
+            <div class="pull-left image">
+                <img src="https://manatoki468.net/thema/comic/assets/img/photo.png" class="img-circle cursor" alt="" onclick="win_memo('https://manatoki468.net/bbs/myphoto.php');" title="내사진등록">
+            </div>
+            <div class="pull-left info">
+                <p>마와니</p>
+                <span class="font-12 ko-11">
+					<a>용사</a>
+					&nbsp;
+					<a href="https://manatoki468.net/bbs/logout.php">
+						<i class="fa fa-circle text-primary"></i> &nbsp;로그아웃
+					</a>
+				</span>
+            </div>
+
+            <div class="clearfix"></div>
+
+            
+            <div class="progress progress-striped xs cursor" style="margin:10px 0px 0px;" data-original-title="레벨업까지 1,230점 남았습니다." data-toggle="tooltip" data-placement="bottom" data-html="true">
+                <div class="progress-bar progress-bar-blue" style="width: 32%;"></div>
+            </div>
+
+            <ul class="sidebar-list no-margin" style="padding:10px 5px 0px;">
+                <li>
+				<span class="pull-right">
+					Exp 11,370 (31.6%)
+				</span>
+                    레벨 9                </li>
+                <li>
+                    <a href="https://manatoki468.net/bbs/point.php" target="_blank" class="win_point">
+					<span class="pull-right">
+						12,370 점
+					</span>
+                        MP                    </a>
+                </li>
+                                <li class="msgLabel" style="display:none;">
+                    <a class="cursor" data-toggle="control-sidebar" onclick="miso_msg();">
+					<span class="pull-right">
+						<b class="orangered msgCount">0</b> 개
+					</span>
+                        알림
+                    </a>
+                </li>
+                            </ul>
+
+        </div>
+
+    
+</div>
+
+<!-- =============================================== -->
+<div class="sidebar-misc">
+    
+    <div class="text-center" style="margin:15px 0px;">
+            </div>
+</div>            </section>
+        </aside>
+        <!-- =============================================== -->
+
+        <!-- Content Wrapper. Contains page content -->
+        <div id="content_wrapper" class="content-wrapper center content-white ko-12">
+                                                            <div class="page-title">
+                        <h2><a href="https://manatoki468.net/comic"><span>단행본</span></a></h2>
+                                                <div class="clearfix"></div>
+                    </div>
+                            
+                        <div class="content">
+                <div class="at-content">
+                                        <div id="at-wrap">
+                        <div id="at-main">
+                                                        
+<style>
+    #main-banner-view .div-title-underbar-bold {
+        padding-bottom: 2px;
+    }
+
+    #main-banner-view .main-box {
+        margin: 15px 0 30px;
+    }
+</style>
+
+
+<style>
+    #id_mbv .div-title-underbar-bold {
+        padding-bottom: 2px;
+    }
+
+    #id_mbv .main-box {
+        margin: 15px 0 30px;
+    }
+</style>
+
+<!-- Start //-->
+<div id="id_mbv" class="row row-15" style="margin-bottom: 20px;">
+    
+<div id="e507dc9aebmb52aae13946" class="col-15 col-md-12">
+    <style>
+										    .id_bbn img { width: 100%; }
+</style>
+<div id="vmuijslwhorefqpkgtn" class="id_bbn row row-10">
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=208" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/208.gif?_=65a9554441c5f5d55358a6f4e296a55e"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=209" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/209.gif?_=39e4d8bbb450de0ac0f4042adec5ed31"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=210" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/210.gif?_=1dd314a9f252a626c4c0f96d0dc9ea41"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=211" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/211.gif?_=7d5f99411696e758fc48fea17493e0bd"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=198" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/198.gif?_=7b83373dbf34433adbc2ad57fb9516eb"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=203" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/203.gif?_=aef6d47080311d7689cc1d0cde5f3643"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=201" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/201.gif?_=a25fcda563ceabbf68dffbea844c64da"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=200" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/200.gif?_=3a0bae15b657e507679b05f47ef4d193"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=204" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/204.gif?_=0a3888fcb6e7f75a9ae950bd64dd38d7"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=205" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/205.gif?_=ec5301b724deff88d0729ca9a07f3586"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=207" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/207.gif?_=d521718d29855f74255304e7d19f1402"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=212" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/212.gif?_=350fcdb3686edc1a2e08c7b02bc577be"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=438" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/438.gif?_=b797b78693aac801d135d452b1518fe5"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=213" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/213.gif?_=1a9f1206b37e799b5f0424e14e190443"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=202" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/202.gif?_=57d74c129a347478465f9e165d110eac"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=623" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/623.gif?_=89817ff72c2e4f7fc41f7a19a75d487f"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=199" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/199.gif?_=179c0a320f8632bdf9dae772d63b490d"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=435" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/435.gif?_=037054d12a9bccab87b668d85cde37f3"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=441" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/441.gif?_=a6da1ebb1ef4ce92a8edcc9efa7fe946"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=444" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/444.gif?_=30fcf41e1b63467a15a90e9be1f5fd7b"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=243" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/243.gif?_=587e05e2505c09a23b721fce3ab78b89"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=215" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/215.gif?_=be4a88206b079e74f3520b292c13e4f1"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=206" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/206.gif?_=7d9f83964a3dec05b50d06ff53e32af7"/>
+        </a>
+        </div>
+                    <div class="col-10 col-md-3 col-sm-4 col-xs-6">
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=217" target="_blank" style="display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/217.gif?_=a6d50039a881082ce8c8b0355cdaa88b"/>
+        </a>
+        </div>
+    </div>
+    </div>
+
+</div>
+<!--// End -->
+
+<div class="row row-15" style="margin-bottom: 20px;">
+    <style>
+										    .board-tail-banner img { max-width: 100%; }
+</style>
+<div id="fhivdneclamkqrugyoxpwsbjt" class="board-tail-banner">
+            <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=218" target="_blank" style="text-align: center; display: block;">
+            <img src="/tokinbtoki/218.gif?_=2e3d8c39d072be9b6d1cfeacb4485d27" />
+        </a>
+        </div>
+</div>
+
+<style>
+    #adModal {
+        text-align: center;
+        padding: 0 !important;
+    }
+
+    #adModal:before {
+        content: '';
+        display: inline-block;
+        height: 100%;
+        vertical-align: middle;
+        margin-right: -4px;
+    }
+
+    #adModal .modal-dialog {
+        display: inline-block;
+        text-align: left;
+        vertical-align: middle;
+        max-width: 500px;
+    }
+
+    #adModal .modal-body img {
+        width: 100%;
+    }
+</style>
+<!-- Modal -->
+<div class="modal fade" id="adModal" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-body">
+                <img src="https://manatoki468.net/img/adblock.png"/>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .trans-bg-yellow {
+        background-color: rgba(243,161,32,.9)!important;
+        color: #fff!important;
+    }
+</style>
+<section class="board-list"> 
+		
+	
+    <style>
+    .list-tsearch {
+        padding: 5px 10px;
+    }
+
+    .list-tsearch table {
+        border: none;
+    }
+
+    .list-tsearch table td, .list-tsearch table th {
+        padding: 3px 5px;
+        line-height: 30px;
+    }
+
+    .list-tsearch .btn-danger {
+        color: #ffffff;
+    }
+</style>
+
+<div class="list-tsearch">
+    <form name="fhsearch" method="get" role="form" class="form" action="https://manatoki468.net/comic">
+        <input type="hidden" name="publish" value=""/>
+        <input type="hidden" name="jaum" value=""/>
+        <input type="hidden" name="tag" value=""/>
+        <input type="hidden" name="sst" value="wr_datetime"/>
+        <input type="hidden" name="sod" value="desc"/>
+        <table width="100%" class="table-responsive">
+            <tr>
+                <th width="50">제목</th>
+                <td>
+                    <input type="text" name="stx"
+                           value="" id="stx"
+                           class="form-control input-sm" maxlength="20" placeholder="검색어">
+                </td>
+                <td class="hidden-xs" width="50" rowspan="6">
+                    <button class="btn btn-sm btn-primary" style="height: 240px;" type="submit">검색</button>
+                </td>
+            </tr>
+                        <tr>
+                <th>작가</th>
+                <td>
+                    <select id="artist" name="artist" class="form-control input-sm">
+                                                    <option value=""></option>
+                                                <!--<option value=""></option>
+                                                    <option value="" ></option>
+                        -->                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>발행</th>
+                <td>
+                    <span class="btn btn-danger btn-xs s-publish" data-value="">전체</span>
+                                            <span class="btn btn-default btn-xs s-publish" data-value="주간">주간</span>
+                                            <span class="btn btn-default btn-xs s-publish" data-value="격주">격주</span>
+                                            <span class="btn btn-default btn-xs s-publish" data-value="월간">월간</span>
+                                            <span class="btn btn-default btn-xs s-publish" data-value="단편">단편</span>
+                                            <span class="btn btn-default btn-xs s-publish" data-value="단행본">단행본</span>
+                                            <span class="btn btn-default btn-xs s-publish" data-value="완결">완결</span>
+                                    </td>
+            </tr>
+            <tr>
+                <th>초성</th>
+                <td>
+                    <span class="btn btn-danger btn-xs s-jaum" data-value="">전체</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㄱ">ㄱ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㄴ">ㄴ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㄷ">ㄷ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㄹ">ㄹ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㅁ">ㅁ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㅂ">ㅂ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㅅ">ㅅ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㅇ">ㅇ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㅈ">ㅈ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㅊ">ㅊ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㅋ">ㅋ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㅌ">ㅌ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㅍ">ㅍ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="ㅎ">ㅎ</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="0-9">0-9</span>
+                                            <span class="btn btn-default btn-xs s-jaum" data-value="a-z">a-z</span>
+                                    </td>
+            </tr>
+            <tr>
+                <th>장르</th>
+                <td>
+                    <span class="btn btn-danger btn-xs s-genre s-all" data-value="">전체</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="17">17</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="BL">BL</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="SF">SF</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="TS">TS</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="개그">개그</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="게임">게임</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="도박">도박</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="드라마">드라마</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="라노벨">라노벨</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="러브코미디">러브코미디</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="먹방">먹방</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="백합">백합</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="붕탁">붕탁</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="순정">순정</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="스릴러">스릴러</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="스포츠">스포츠</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="시대">시대</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="애니화">애니화</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="액션">액션</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="음악">음악</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="이세계">이세계</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="일상">일상</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="전생">전생</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="추리">추리</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="판타지">판타지</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="학원">학원</span>
+                                            <span class="btn btn-default btn-xs s-genre" data-value="호러">호러</span>
+                                    </td>
+            </tr>
+                        <tr>
+                <th>정렬</th>
+                <td>
+                    <span class="btn btn-danger btn-xs s-sort" data-value="">기본</span>
+                    <span class="btn btn-default btn-xs s-sort" data-value="as_view">인기순</span>
+                    <span class="btn btn-default btn-xs s-sort" data-value="wr_good">추천순</span>
+                    <span class="btn btn-default btn-xs s-sort" data-value="as_comment">댓글순</span>
+                    <span class="btn btn-default btn-xs s-sort" data-value="as_bookmark">북마크순</span>
+                </td>
+            </tr>
+            <tr class="visible-xs">
+                <td colspan="3" style="text-align: center">
+                    <button class="btn btn-sm btn-primary" style="width: 100%;" type="submit">검색</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+<script>
+    // function matchStart(params, data) {
+    //     params.term = params.term || '';
+    //     if (data.text.toUpperCase().indexOf(params.term.toUpperCase()) == 0) {
+    //         return data;
+    //     }
+    //     return false;
+    // }
+
+    jQuery(function () {
+        jQuery('#artist').select2({
+            placeholder: '작가 선택',
+            allowClear: true,
+            tags: true,
+            closeOnSelect: false,
+            minimumInputLength: 1,
+            // matcher: function(params, data) {
+            //     return matchStart(params, data);
+            // },
+            ajax: {
+                url: '/bbs/comic_artist.php',
+                dataType: 'json',
+                delay: 1000
+            }
+        });
+
+        jQuery('.s-publish').on('click', function(){
+            var publish = jQuery(this).data('value');
+            jQuery('input[name=publish]').val(publish);
+            jQuery('.s-publish').removeClass('btn-danger').addClass('btn-default');
+            jQuery(this).addClass('btn-danger');
+        });
+
+        jQuery('.s-jaum').on('click', function(){
+            var jaum = jQuery(this).data('value');
+            jQuery('input[name=jaum]').val(jaum);
+            jQuery('.s-jaum').removeClass('btn-danger').addClass('btn-default');
+            jQuery(this).addClass('btn-danger');
+        });
+
+        jQuery('.s-sort').on('click', function(){
+            var sort = jQuery(this).data('value');
+            jQuery('input[name=sst]').val(sort);
+            jQuery('.s-sort').removeClass('btn-danger').addClass('btn-default');
+            jQuery(this).addClass('btn-danger');
+        });
+
+        jQuery('.s-genre').on('click', function(){
+            var genre = [];
+            var genre_select = jQuery(this).data('value');
+            if(genre_select == '') {
+                jQuery('.s-genre').removeClass('btn-danger').addClass('btn-default');
+                jQuery(this).addClass('btn-danger');
+            } else {
+                jQuery('.s-genre.s-all').removeClass('btn-danger').addClass('btn-default');
+                if (jQuery(this).hasClass('btn-danger')) {
+                    jQuery(this).removeClass('btn-danger').addClass('btn-default');
+                } else {
+                    jQuery(this).removeClass('btn-default').addClass('btn-danger');
+                }
+            }
+            jQuery('.s-genre.btn-danger').each(function(i,e){
+                if(jQuery(e).data('value') == '') {
+                    return true;
+                }
+                genre.push(jQuery(e).data('value'));
+            });
+            if(genre.length == 0){
+                jQuery('.s-genre.s-all').removeClass('btn-default').addClass('btn-danger');
+                jQuery('input[name=tag]').val('');
+            } else {
+                jQuery('input[name=tag]').val(genre.join(','));
+            }
+        });
+    });
+</script>
+	<div class="list-wrap">
+		<form name="fboardlist" id="fboardlist" action="https://manatoki468.net/bbs/board_list_update.php" onsubmit="return fboardlist_submit(this);" method="post" role="form" class="form">
+			<input type="hidden" name="bo_table" value="comic">
+			<input type="hidden" name="sfl" value="">
+			<input type="hidden" name="stx" value="">
+			<input type="hidden" name="spt" value="0">
+			<input type="hidden" name="sca" value="">
+			<input type="hidden" name="sst" value="wr_datetime">
+			<input type="hidden" name="sod" value="desc">
+			<input type="hidden" name="page" value="1">
+			<input type="hidden" name="sw" value="">
+			<style>
+    .list-wrap .list-container {
+        overflow: hidden;
+        margin-right: -15px;
+        margin-bottom: 0px;
+    }
+
+    .list-wrap .list-row {
+        float: left;
+        width: 14.28%;
+    }
+
+    .list-wrap .list-item {
+        margin-right: 15px;
+        margin-bottom: 30px;
+    }
+
+    
+</style>
+<div id="webtoon-list" class="list-container">
+    <ul id="webtoon-list-all" class="list">
+        
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22674666?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6829bf352cd51_6OjX5vcG_ad62c84f8054b315a6d0cd33f10971ed879e0dd0_240x320.png" alt="">
+                                    </a>
+                                    <div rel="22674666" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22674666?page=1" title="야치루 씨는 칭찬하면 커진다"><span class="title white">야치루 씨는 칭찬하면 커진다</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-darkred right en">
+                                어제                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EA%B2%A9%EC%A3%BC">격주</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%ED%86%A0%EC%98%A4%EB%85%B8+%ED%9E%88%ED%86%A0%EB%82%98%EC%B8%A0">토오노 히토나츠</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22674662?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6829bedea5b97_bAhaQ3z1_81510829199538cffc721ef028432e1fd17e22f8_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22674662" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22674662?page=1" title="등불의 오테르"><span class="title white">등불의 오테르</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                3일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%A3%BC%EA%B0%84">주간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%B9%B4%EC%99%80%EA%B5%AC%EC%B9%98+%EC%9C%A0%EC%9A%B0%ED%82%A4">카와구치 유우키</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22665246?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-682858a09e36d_MkVQUrC4_da632cc572bdf39551655960552c97060036c931_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22665246" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22665246?page=1" title="갸루에게 상냥한 오타쿠 군"><span class="title white">갸루에게 상냥한 오타쿠 군</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%A3%BC%EA%B0%84">주간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%86%8C%EC%B8%84">소츄</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22657874?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-68272ec8f051a_zf82CDBH_584047050f11f71a14f1347a55c1717ed637f4ac_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22657874" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22657874?page=1" title="나한테만 소악마인 후배는 현실에서도 귀엽지만, 꿈 속에선 더 귀엽다"><span class="title white">나한테만 소악마인 후배는 현실에서도 귀엽지만, 꿈 속에선 더 귀엽다</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                5일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%ED%86%A0%ED%82%A4%EC%99%80">토키와</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22657682?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-68272b2222847_8u4zHTvJ_6a9e1bf28bde5076ed03eb37bf9eab9279a99d39_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22657682" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22657682?page=1" title="살해당해 우물에 버려진 성녀가 치트 원령이 되었습니다"><span class="title white">살해당해 우물에 버려진 성녀가 치트 원령이 되었습니다</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-darkred right en">
+                                어제                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EA%B2%A9%EC%A3%BC">격주</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EB%82%98%EB%82%98%EC%8B%9C%EB%AF%B8%EC%A6%88+%EC%BF%A0%EB%9D%BC%EA%B2%8C">나나시미즈 쿠라게</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22657602?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-682729db53f40_EJ0WkrwD_779e2939788ad5a80455b0494907350f3c555b6f_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22657602" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22657602?page=1" title="죄수전생"><span class="title white">죄수전생</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date bg-red right en">
+                                오늘                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%ED%98%B8%EB%A6%AC%EC%97%90+%EB%A5%98">호리에 류</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22656782?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6827092569cec_wHWNsQmT_00eed8875c9f6bea2d9b5b008a6a142a7b968441_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22656782" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22656782?page=1" title="전생 왕자는 연금술사가 되어 흥국한다"><span class="title white">전생 왕자는 연금술사가 되어 흥국한다</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=S.%EC%BD%94%EC%8A%A4%EA%B8%B0">S.코스기</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                    <div class="list-row"></div>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22648398?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-682574dacbe55_s7BfChad_e21350e0a23b57acb76de276bc0104b08a417843_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22648398" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22648398?page=1" title="공작 영애로 전생했기에 소녀 멘탈인 저는 전력으로 여자애로서 살겠습니다"><span class="title white">공작 영애로 전생했기에 소녀 멘탈인 저는 전력으로 여자애로서 살겠습니다</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%B0%A8%EA%B2%90">차겐</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22648374?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-682573acb879d_lZRV1Xsg_d7d5d70e0e4504673deb051f24cf2861db5c05e5_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22648374" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22648374?page=1" title="너무나 귀여운 사람아!"><span class="title white">너무나 귀여운 사람아!</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%99%80%ED%83%80%EB%85%B8+%EB%A7%88%EC%9D%B4%EC%BD%94">와타노 마이코</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22648346?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-682572813f4e8_wuritR1z_c6f4bf99a2e9e04922940822197cd485cb1a7497_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22648346" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22648346?page=1" title="세상에서 제일 ‘귀여운’ 아마미야, 두 번째는 나."><span class="title white">세상에서 제일 ‘귀여운’ 아마미야, 두 번째는 나.</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=tokiwa.">tokiwa.</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22648290?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6825716334a5d_DxtghPbm_bdc5fe185c060ca7ff55b7b22cb9aa460354088b_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22648290" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22648290?page=1" title="참으로 과보호인 마왕님"><span class="title white">참으로 과보호인 마왕님</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%84%BC%EB%A6%AC+%EB%AF%B8%EC%BD%94">센리 미코</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22648246?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6825702c3ed24_aKe2DItG_0ec16a075445c956f8cf717ba6209983a5b3f466_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22648246" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22648246?page=1" title="타타리"><span class="title white">타타리</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%99%80%ED%83%80%EB%A6%AC">와타리</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22648214?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-68256f106aca0_mCtojcla_4e4b238c844ca04a95bba28135a261009ef758d0_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22648214" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22648214?page=1" title="용과 나 ~이세계 용은 제 손길에 약한 모양입니다~"><span class="title white">용과 나 ~이세계 용은 제 손길에 약한 모양입니다~</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%B9%98%ED%86%A0%EC%84%B8+%EC%8B%9C%ED%82%A4">치토세 시키</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22648186?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-68256dcf3bea5_1nBKscjA_48b10d2d3479fd26500bb87988eb4af1db64f6e1_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22648186" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22648186?page=1" title="너와 하는 대화만으로 벅차"><span class="title white">너와 하는 대화만으로 벅차</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%82%B0%EC%BC%80">산케</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                    <div class="list-row"></div>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22648138?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-68256ca5a9622_LkIiAcyu_2f4fb3d54827b92610a7fcf2b81f0a53a216c82d_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22648138" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22648138?page=1" title="후궁도 두 번째라면 ~백돼지비 재래전~"><span class="title white">후궁도 두 번째라면 ~백돼지비 재래전~</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=DOJA">DOJA</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22648106?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-68256b7ab2195_1nMZRxF4_45b2c916282cbda014f70bfb918411302b0017bd_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22648106" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22648106?page=1" title="코스모스(COSMOS)"><span class="title white">코스모스(COSMOS)</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%ED%83%80%EB%AC%B4%EB%9D%BC+%EB%A5%98%ED%97%A4%EC%9D%B4">타무라 류헤이</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22648078?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-68256a4e3c9ef_DapyRHPV_a2f376a038dfdbd522c417f9006d485b47e7264b_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22648078" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22648078?page=1" title="용살의 이사기"><span class="title white">용살의 이사기</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%ED%98%B8%EC%8B%9C%EB%85%B8+%EB%A7%88%EC%BD%94%ED%86%A0">호시노 마코토</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22648042?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6825693818f85_4YomCHP0_27a376c00bdec96142a519454e7ed3bc1993858c_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22648042" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22648042?page=1" title="뇌량 도그파이트"><span class="title white">뇌량 도그파이트</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%ED%86%A0%ED%82%A4%EC%99%80+%EA%B8%B0%EC%9A%94">토키와 기요</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22647998?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-682567f6e6126_UJvX7AKW_5a5ecff94d754f2393edfde7328c284c1990eb86_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22647998" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22647998?page=1" title="안녕 아냐, 바보"><span class="title white">안녕 아냐, 바보</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%95%84%ED%82%A4%EC%95%BC%EB%A7%88+%EC%97%94%EB%A7%88">아키야마 엔마</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22647974?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-682566efa1a02_M1ZW0sUq_7f742eee1e648b65b2c4ec7c3e809374c2b9625f_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22647974" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22647974?page=1" title="사신님과 신부님"><span class="title white">사신님과 신부님</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EB%82%98%EC%B9%B4%EB%85%B8+%EB%82%98%EB%82%98%EC%B9%B4">나카노 나나카</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22647946?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-682565aa910c1_498CKVij_5904dc1910f46b7a1f900678b4366c9714cd6177_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22647946" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22647946?page=1" title="음란한 셰어하우스의 생활 규칙"><span class="title white">음란한 셰어하우스의 생활 규칙</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-gray right en">
+                                한달 전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%82%B0%ED%86%A0%EB%82%98%EB%82%98">산토나나</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                    <div class="list-row"></div>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22647950?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-682565ac529ca_goL6xMAY_f8fa6212a280836533f04a618e1ac68272b29d8e_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22647950" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22647950?page=1" title="3분 보디가드 요코"><span class="title white">3분 보디가드 요코</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%82%AC%EC%B9%B4%EB%AA%A8%ED%86%A0+%EC%8B%9C%EB%85%B8">사카모토 시노</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22647942?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6825653367409_6itLD709_4c763ca69c3fe33e9e08e9eb8b115fa0664af666_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22647942" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22647942?page=1" title="성별 반전?! 친구랑 해버렸다"><span class="title white">성별 반전?! 친구랑 해버렸다</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-gray right en">
+                                한달 전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EB%8B%A8%ED%96%89%EB%B3%B8">단행본</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%B9%98%ED%9E%88%EB%A1%9C+%ED%9E%88%EB%A1%9C%EC%9D%B4">치히로 히로이</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22647926?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6825646f00534_RfPqM09n_097fbd12c68866a7e1a43509bcc69575e4e3a715_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22647926" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22647926?page=1" title="사탕과 채찍"><span class="title white">사탕과 채찍</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                4일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EA%B2%A9%EC%A3%BC">격주</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%95%84%EC%9D%B4%EC%86%8C%EC%97%90%EB%A3%A8">아이소에루</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22647930?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-68256473e7155_YJt84v5V_189fcff22235f80204b3168cd722756dfa433814_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22647930" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22647930?page=1" title="나는 그림자 영웅이 아니라고!"><span class="title white">나는 그림자 영웅이 아니라고!</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date bg-red right en">
+                                오늘                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=S.%EC%BD%94%EC%8A%A4%EA%B8%B0">S.코스기</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22632766?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-682332b93af59_6cZCK0a3_813c43005b6e0d8cbccee570b4f19fb0c2a0ee9e_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22632766" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22632766?page=1" title="미믹"><span class="title white">미믹</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                8일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EB%8B%A8%ED%8E%B8">단편</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%BD%94%EC%BF%A0%EC%9E%90%EC%99%80+%EC%9A%94%EC%8A%A4%EC%BC%80">코쿠자와 요스케</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22631962?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6823219438eb3_kIvDOHrn_40049b1abee8d491340320a666f01b2d364fcc87_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22631962" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22631962?page=1" title="아! 야생의 아가씨가 튀어나왔다!"><span class="title white">아! 야생의 아가씨가 튀어나왔다!</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                8일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EB%82%98%EA%B0%80%EC%84%B8+%EC%9A%94%EC%8A%A4%EC%BC%80">나가세 요스케</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22631698?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-68230e760883e_RqhA3jPz_e0494f1eec5613a197386f417b2bfc73c55259a1_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22631698" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22631698?page=1" title="파이브 스타 스토리"><span class="title white">파이브 스타 스토리</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-gray right en">
+                                한달 전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EB%8B%A8%ED%96%89%EB%B3%B8">단행본</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EB%82%98%EA%B0%80%EB%85%B8+%EB%A7%88%EB%AA%A8%EB%A3%A8">나가노 마모루</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                    <div class="list-row"></div>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22630474?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6822c39412642_Vz7AcINJ_dee6682ad924d000590a9e944797f46e51ba9dec_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22630474" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22630474?page=1" title="헷갈리게 하지 마 야모리 군"><span class="title white">헷갈리게 하지 마 야모리 군</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date bg-red right en">
+                                오늘                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%9D%B4%EB%85%B8%EA%B5%AC%EC%B9%98+%EC%8B%9C%EB%82%98">이노구치 시나</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22630462?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6822c32c4a3ad_faDq0cTl_b208ee77ae7dc3003e4c2c91e992801d0e7dd8f6_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22630462" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22630462?page=1" title="여동생은 알고 있다"><span class="title white">여동생은 알고 있다</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-darkred right en">
+                                어제                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%A3%BC%EA%B0%84">주간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EA%B0%84%EA%B8%B0+%EB%A7%88%EB%A6%AC">간기 마리</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22630458?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6822c30403cb9_qMtmaRTc_0d890c78408959962e079b0642ed205c1867ac16_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22630458" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22630458?page=1" title="용사형에 처함 징벌용사 9004부대 형무기록"><span class="title white">용사형에 처함 징벌용사 9004부대 형무기록</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                8일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%9D%B4%EB%85%B8%EC%9A%B0%EC%97%90+%EB%82%98%EC%B8%A0%EB%AF%B8">이노우에 나츠미</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22626086?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-6821f53a4fd98_Vvs9EZmU_be1494600a867abe34628fc41dba6f464cdc59e3_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22626086" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22626086?page=1" title="최강마왕은 무쌍하고 있었는데~여체화 해제의 열쇠는 사람들을 돕는 여행이었습니다~"><span class="title white">최강마왕은 무쌍하고 있었는데~여체화 해제의 열쇠는 사람들을 돕는 여행이었습니다~</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                9일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%9B%94%EA%B0%84">월간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%99%80%EC%8A%A4">와스</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22616734?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-68207ad84c8df_msHpbNTJ_cb3aca96f9d8e8e0b54a604ec4624f3a444848bf_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22616734" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22616734?page=1" title="사장과 술과 별"><span class="title white">사장과 술과 별</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                3일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%A3%BC%EA%B0%84">주간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%A6%88%EB%A6%AC%ED%82%A4%EC%8B%9C">즈리키시</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22577422?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-681a02f28b110_tkXDRIF0_f93ca1c8b335dab9a4200657f458fe0369a7c6e5_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22577422" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22577422?page=1" title="은청의 프루스트"><span class="title white">은청의 프루스트</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                15일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EC%A3%BC%EA%B0%84">주간</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%EC%97%90%EB%AA%A8%ED%9B%84%EC%9A%B0">에모후우</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+    
+    <li>
+                <div class="list-row">
+            <div class="list-item">
+                                    <div class="imgframe">
+                        <div class="img-wrap" style="padding-bottom:133.33%;">
+                            <div class="img-item">
+                                                                                                                                                                    <a href="https://manatoki468.net/comic/22565710?page=1">
+                                                                                <img src="https://manatoki468.net/data/file/comic/thumb-68185a4b538ff_Z0h5wEVW_7eed9289ce8fdfd14818edad8beddcd18a9e4f15_240x320.jpg" alt="">
+                                    </a>
+                                    <div rel="22565710" class="in-lable trans-bg-black"><a href="https://manatoki468.net/comic/22565710?page=1" title="낚아 먹고 싶은 갸루사와 양"><span class="title white">낚아 먹고 싶은 갸루사와 양</span></a></div>
+
+                                    <!--<div style="position: absolute;top:0px; width:100px; left:0px; padding: 0px 10px; font-size: 9px;">
+                                                                            </div>-->
+
+                            </div>
+                        </div>
+
+                                                    <div class="list-date trans-bg-orangered right en">
+                                5일전                            </div>
+                        
+                        <div class="list-publish trans-bg-blue en">
+                            <a href="https://manatoki468.net/comic?publish=%EA%B2%A9%EC%A3%BC">격주</a>
+                        </div>
+
+                                                <div class="list-artist trans-bg-yellow en">
+                                                            <a href="https://manatoki468.net/comic?artist=%ED%9B%84%EB%82%98%EC%B8%A0+%EC%B9%B4%EC%A6%88%ED%82%A4">후나츠 카즈키</a>
+                                                    </div>
+                        
+                    </div>
+                            </div>
+        </div>
+    </li>
+        </ul>
+    <div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+
+
+<script>
+    var bookmarks = ["112483","113300","123165","509008","520806","1847120","5744548","11127915","14126750","14254697","17266205","20931038"];
+
+    jQuery.each(bookmarks, function(i,v){
+        jQuery('div.in-lable[rel='+v+']').removeClass('trans-bg-black').addClass('trans-bg-red');
+    });
+</script>
+			<div class="list-btn">
+				<div class="form-group pull-right">
+					<div class="btn-group dropup" role="group">
+																	</div>
+				</div>
+				<div class="form-group pull-left">
+					<div class="btn-group" role="group">
+												<a role="button" href="#" class="btn btn-black btn-sm" data-toggle="modal" data-target="#searchModal" onclick="return false;"><i class="fa fa-search"></i><span class="hidden-xs"> 검색</span></a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+			<div class="list-page text-center">
+				<ul class="pagination en no-margin">
+										<li class="disabled"><a><i class="fa fa-angle-double-left"></i></a></li><li class="disabled"><a><i class="fa fa-angle-left"></i></a></li><li class="active"><a>1</a></li><li><a href="https://manatoki468.net/comic/p2">2</a></li><li><a href="https://manatoki468.net/comic/p3">3</a></li><li><a href="https://manatoki468.net/comic/p4">4</a></li><li><a href="https://manatoki468.net/comic/p5">5</a></li><li><a href="https://manatoki468.net/comic/p6">6</a></li><li><a href="https://manatoki468.net/comic/p7">7</a></li><li><a href="https://manatoki468.net/comic/p8">8</a></li><li><a href="https://manatoki468.net/comic/p9">9</a></li><li><a href="https://manatoki468.net/comic/p10">10</a></li><li class="disabled"><a><i class="fa fa-angle-right"></i></a></li><li><a href="https://manatoki468.net/comic/p10"><i class="fa fa-angle-double-right"></i></a></li>									</ul>
+                <div>최대 10페이지까지로 제한되어 있습니다.<br />
+                    검색과 정렬 기능을 이용해보세요.</div>
+			</div>
+
+			<div class="clearfix"></div>
+			
+		</form>
+
+		<div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-sm">
+				<div class="modal-content">
+					<div class="modal-body">
+						<div class="text-center">
+							<h4 id="myModalLabel"><i class="fa fa-search fa-lg"></i> Search</h4>
+						</div>
+						<form name="fsearch" action="https://manatoki468.net/bbs/search.php" method="get" role="form" class="form" style="margin-top:20px;">
+							<!--<input type="hidden" name="bo_table" value="">
+							<input type="hidden" name="sca" value="">-->
+							<!--<div class="row row-15">
+								<div class="col-xs-6 col-15">
+									<div class="form-group">
+										<label for="sfl" class="sound_only">검색대상</label>
+										<select name="sfl" id="sfl" class="form-control input-sm">
+											<option value="wr_subject">제목</option>
+											<option value="wr_content">내용</option>
+											<option value="wr_subject||wr_content">제목+내용</option>
+											<option value="mb_id,1">회원아이디</option>
+											<option value="mb_id,0">회원아이디(코)</option>
+											<option value="wr_name,1">글쓴이</option>
+											<option value="wr_name,0">글쓴이(코)</option>
+										</select>
+									</div>
+								</div>
+								<div class="col-xs-6 col-15">
+									<div class="form-group">
+										<select name="sop" id="sop" class="form-control input-sm">
+											<option value="or">또는</option>
+											<option value="and">그리고</option>
+										</select>	
+									</div>
+								</div>
+							</div>-->
+							<div class="form-group">
+								<label for="stx" class="sound_only">검색어<strong class="sound_only"> 필수</strong></label>
+								<input type="text" name="stx" value="" required id="stx" class="form-control input-sm" maxlength="20" placeholder="검색어">
+							</div>
+							<div class="row row-15">
+								<div class="col-xs-6 col-15">
+									<button type="submit" class="btn btn-color btn-sm btn-block"><i class="fa fa-check"></i> 검색</button>
+								</div>
+								<div class="col-xs-6 col-15">
+									<button type="button" class="btn btn-black btn-sm btn-block" data-dismiss="modal"><i class="fa fa-times"></i> 닫기</button>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+</section>
+
+<!-- } 게시판 목록 끝 -->
+
+<div class="h20"></div>																</div><!-- #at-main -->
+																						<div id="at-right">
+									
+<style>
+    .widget-side-line .main-box {
+        border: 1px solid #ddd;
+        margin-bottom: 16px;
+        background: #fff;
+    }
+
+    .widget-side-line .main-more {
+        margin: 8px 0px 0px;
+    }
+
+    .widget-side-line .main-p10 {
+        padding: 10px;
+    }
+
+    .widget-side-line .main-tab {
+        border-right: 1px solid #ddd;
+        border-top: 1px solid #ddd;
+    }
+
+    .widget-side-line .main-tab .nav {
+        margin-top: -1px !important;
+    }
+
+    .widget-side-line .main-tab .nav .active a {
+        font-weight: bold;
+    }
+
+    .widget-side-line .main-tab .tab-more {
+        margin-top: -28px;
+        margin-right: 10px;
+        font-size: 11px;
+        letter-spacing: -1px;
+        color: #888 !important;
+    }
+
+    .widget-side-line .tabs {
+        margin-bottom: 16px !important;
+    }
+
+    .widget-side-line .tab-content {
+        padding: 10px !important;
+    }
+</style>
+
+<div class="widget-side-line">
+
+    <div class="row row-15">
+        <div class="col col-15 col-sm-6 col-md-6 col-lg-12">
+            <div style="padding:10px; border:1px solid #ddd; background:#fafafa; margin-bottom: 20px;">
+                <div class="miso-outlogin">
+            <!--<div class="pull-right">
+			<a href="" class="leave-me at-tip" data-original-title="<nobr>회원탈퇴</nobr>" data-toggle="tooltip" data-placement="top" data-html="true">
+				<span class="text-muted"><i class="fa fa-sign-out fa-lg"></i></span>
+			</a>
+		</div>-->
+        <div class="profile">
+            <a href="https://manatoki468.net/bbs/myphoto.php" target="_blank" class="win_memo" title="사진등록">
+                <div class="photo pull-left">
+                    <img src="https://manatoki468.net/thema/comic/widget/miso-outlogin/img/photo.png">
+                </div>
+            </a>
+            <h3>마와니</h3>
+            <div class="font-12 text-muted" style="letter-spacing:-1px;">
+                <img src="https://manatoki468.net/img/level/zb4/9.gif">                용사                                                    <span class="lightgray">|</span>
+                    <a href="https://manatoki468.net/bbs/member_confirm.php?url=register_form.php">
+                        <span class="text-muted">정보수정</span>
+                    </a>
+                
+                <span class="pull-right">
+                    <a href="https://manatoki468.net/bbs/logout.php" class="btn btn-xs btn-navy">
+                        <!--<i class="fa fa-power-off"></i>	-->로그아웃
+                    </a>
+                </span>
+
+            </div>
+            <div class="clearfix"></div>
+        </div>
+
+        <div class="at-tip" data-original-title="1,230점 추가획득시 레벨업합니다." data-toggle="tooltip" data-placement="top" data-html="true" style="margin:10px 0px;">
+            <div class="div-progress progress progress-striped" style="margin:0px; height: 6px;">
+                <div class="progress-bar progress-bar-exp" role="progressbar" aria-valuenow="32" aria-valuemin="0" aria-valuemax="100" style="width: 32%;"></div>
+            </div>
+        </div>
+
+        <div class="text-muted">
+
+            <div class="pull-left">
+
+                <a href="javascript:;" data-toggle="control-sidebar" onclick="miso_msg();">
+                    알림
+                    <span class="sidebarLabel" style="display:none;">
+						<b class="orangered sidebarCount">0</b>
+					</span>
+                </a>
+
+                <span class="lightgray">|</span>
+                <a href="https://manatoki468.net/bbs/memo.php" target="_blank" class="win_memo">
+                    쪽지                </a>
+
+                <span class="lightgray">|</span>
+                <a href="https://manatoki468.net/bbs/bookmark_list.php">
+                    북마크
+                </a>
+
+            </div>
+
+            <div class="pull-right">
+                <a href="https://manatoki468.net/bbs/point.php" target="_blank" class="win_point">
+                    <i class="fa fa-gift"></i> MP <b class="red">12,370</b>
+                </a>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+
+    </div>            </div>
+
+            <div style="padding: 0 0 20px;">
+                <style>
+										    .board-tail-banner img { max-width: 100%; }
+</style>
+<div id="wokudeviygstqmljzhxfnrp" class="board-tail-banner">
+            <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=272" target="_blank" style="text-align: center; display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/272.gif?_=7930c8e9ec8f80a44ffa5e2a0e30c5d2" />
+        </a>
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=710" target="_blank" style="text-align: center; display: block; margin-bottom: 5px;">
+            <img src="/tokinbtoki/710.gif?_=d74c70a42e24373b6f50c8f745824cc4" />
+        </a>
+                <a href="https://manatoki468.net/bbs/linkbn.php?bn_id=226" target="_blank" style="text-align: center; display: block;">
+            <img src="/tokinbtoki/226.gif?_=8c2a2ac0d326ee779a2a2c1a7230e8f7" />
+        </a>
+        </div>
+            </div>
+        </div>
+        <div class="col col-15 col-sm-6 col-md-6 col-lg-12">
+            <div class="div-tab tabs tabs-black-top">
+                <div class="main-tab bg-light">
+                    <ul class="nav nav-tabs">
+                        <li class="active">
+                            <a href="https://manatoki468.net/bbs/bookmark_list.php">북마크</a>
+                        </li>
+                    </ul>
+                    <a class="pull-right tab-more" href="https://manatoki468.net/bbs/bookmark_list.php">
+                        + 더보기
+                    </a>
+                </div>
+                <div class="tab-content">
+                    <div class="tab-pane active">
+                        <ul style="list-style:none; padding:0; margin:0">
+    <li>
+        <a href="https://manatoki468.net/bbs/go_last.php?bo_table=comic&wr_id=20931038" class="ellipsis" title="나와 미모사의 75일">
+            <span class="font-9 gray pull-right">03.26</span>
+            <i class="fa fa-book orangered"></i>
+            나와 미모사의 75일        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs/go_last.php?bo_table=comic&wr_id=14126750" class="ellipsis" title="이무기에게 시집간 처녀">
+            <span class="font-9 gray pull-right">01.04</span>
+            <i class="fa fa-book orangered"></i>
+            이무기에게 시집간 처녀        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs/go_last.php?bo_table=comic&wr_id=520806" class="ellipsis" title="미안하지만 난 백합이 아냐">
+            <span class="font-9 gray pull-right">09.11</span>
+            <i class="fa fa-book orangered"></i>
+            미안하지만 난 백합이 아냐        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs/go_last.php?bo_table=comic&wr_id=509008" class="ellipsis" title="LV1 마왕과 원룸 용사">
+            <span class="font-9 gray pull-right">06.09</span>
+            <i class="fa fa-book orangered"></i>
+            LV1 마왕과 원룸 용사        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs/go_last.php?bo_table=comic&wr_id=5744548" class="ellipsis" title="변경살이 하는 마왕, 전생해서 최강의 마술사가 된다">
+            <span class="font-9 gray pull-right">12.27</span>
+            <i class="fa fa-book orangered"></i>
+            변경살이 하는 마왕, 전생해서 최강의 마술사가 된다        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs/go_last.php?bo_table=comic&wr_id=113300" class="ellipsis" title="바라지 않는 불사의 모험자">
+            <span class="font-9 gray pull-right">11.12</span>
+            <i class="fa fa-book orangered"></i>
+            바라지 않는 불사의 모험자        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/comic/17269921" class="ellipsis" title="이세계에 갔더니 이미 여동생이 마왕으로 군림하고 있던 이야기. 1화">
+            <span class="font-9 gray pull-right">09.30</span>
+            <i class="fa fa-bookmark blue"></i>
+            이세계에 갔더니 이미 여동생이 마왕으로 군림하고 있던 이야기. 1화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/comic/16251169" class="ellipsis" title="전생하고 40년. 슬슬, 아재도 사랑이 하고 싶어 25.5화">
+            <span class="font-9 gray pull-right">06.28</span>
+            <i class="fa fa-bookmark blue"></i>
+            전생하고 40년. 슬슬, 아재도 사랑이 하고 싶어 25.5화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/comic/16251169" class="ellipsis" title="전생하고 40년. 슬슬, 아재도 사랑이 하고 싶어 25.5화">
+            <span class="font-9 gray pull-right">06.28</span>
+            <i class="fa fa-bookmark blue"></i>
+            전생하고 40년. 슬슬, 아재도 사랑이 하고 싶어 25.5화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/comic/16251169" class="ellipsis" title="전생하고 40년. 슬슬, 아재도 사랑이 하고 싶어 25.5화">
+            <span class="font-9 gray pull-right">06.28</span>
+            <i class="fa fa-bookmark blue"></i>
+            전생하고 40년. 슬슬, 아재도 사랑이 하고 싶어 25.5화        </a>
+    </li>
+</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row row-15">
+
+        <div class="col col-15 col-sm-6 col-md-6 col-lg-12">
+            <div class="div-tab tabs tabs-black-top">
+                <div class="main-tab bg-light">
+                    <ul class="nav nav-tabs">
+                        <li class="active">
+                            <a>최근 본 만화</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="tab-content">
+                    <div class="tab-pane active">
+                        <ul style="list-style:none; padding:0; margin:0">
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22694078" class="ellipsis" title="책벌레의 하극상 3부 46화">
+            <span class="rank-icon en bg-red">1</span>
+            책벌레의 하극상 3부 46화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=15162260" class="ellipsis" title="이세계 사무라이 1화">
+            <span class="rank-icon en bg-red">2</span>
+            이세계 사무라이 1화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22677790" class="ellipsis" title="첫 섹파 3화">
+            <span class="rank-icon en bg-red">3</span>
+            첫 섹파 3화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22425950" class="ellipsis" title="첫 섹파 1화">
+            <span class="rank-icon en bg-red">4</span>
+            첫 섹파 1화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22620006" class="ellipsis" title="남녀비 1:39의 평행세계는 의외로 평범 223화">
+            <span class="rank-icon en bg-red">5</span>
+            남녀비 1:39의 평행세계는 의외로 평범 223화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22568014" class="ellipsis" title="남녀비 1:39의 평행세계는 의외로 평범 222화">
+            <span class="rank-icon en bg-red">6</span>
+            남녀비 1:39의 평행세계는 의외로 평범 222화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22561110" class="ellipsis" title="남녀비 1:39의 평행세계는 의외로 평범 221화">
+            <span class="rank-icon en bg-red">7</span>
+            남녀비 1:39의 평행세계는 의외로 평범 221화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22533214" class="ellipsis" title="남녀비 1:39의 평행세계는 의외로 평범 220화">
+            <span class="rank-icon en bg-red">8</span>
+            남녀비 1:39의 평행세계는 의외로 평범 220화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22495546" class="ellipsis" title="남녀비 1:39의 평행세계는 의외로 평범 219화">
+            <span class="rank-icon en bg-red">9</span>
+            남녀비 1:39의 평행세계는 의외로 평범 219화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22261790" class="ellipsis" title="나와 미모사의 75일 16화">
+            <span class="rank-icon en bg-red">10</span>
+            나와 미모사의 75일 16화        </a>
+    </li>
+</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col col-15 col-sm-6 col-md-6 col-lg-12">
+            <div class="div-tab tabs tabs-black-top">
+                <div class="main-tab bg-light">
+                    <ul class="nav nav-tabs">
+                        <li class="active">
+                            <a href="https://manatoki468.net/comic">주간 베스트</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="tab-content">
+                    <div class="tab-pane active">
+                        <div class="miso-post-list">
+	<div class="post-wrap">
+		
+<ul class="post-list">
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22634842" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+64						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">1</span>			미믹		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22652986" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+76						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">2</span>			귀축 영웅 84화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22635218" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+147						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">3</span>			마법소녀 패배재판 3-4화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22644322" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+76						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">4</span>			학생회에도 구멍은 있다! 132화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22657906" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+89						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">5</span>			죄수전생 1화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22635366" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+141						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">6</span>			전생했는데 제7왕자라서 멋대로 마술을 누립니다 201-2화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22644442" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+74						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">7</span>			킹덤 836화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22660586" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+57						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">8</span>			이러는 게 좋아 49-4화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22660034" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+70						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">9</span>			죄수전생 3화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22686598" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+133						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">10</span>			아무하고나 자는 네가 좋아 64화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22652330" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+31						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">11</span>			NTREVENGE 50화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22669542" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+45						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">12</span>			블랙학교에 근무하게 된 선생님 41화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22652770" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+103						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">13</span>			고블린 슬레이어 98화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22660262" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+31						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">14</span>			좀비 세계에서 하렘을 만들자! 14-2화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22669394" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+72						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">15</span>			마도정병의 슬레이브 156화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22677790" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+73						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">16</span>			첫 섹파 3화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22658694" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+45						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">17</span>			죄수전생 2화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22658442" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+102						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">18</span>			살해당해 우물에 버려진 성녀가 치트 원령이 되었습니다 1화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22659170" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+36						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">19</span>			한심한 누나 5화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22669634" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+39						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">20</span>			이세계에서 음마사 하렘 2화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22634382" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+56						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">21</span>			전생했는데 제7왕자라서 멋대로 마술을 누립니다 201-1화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22659018" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+92						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">22</span>			모처럼 치트를 받아서 이세계에 전이했으니까, 맘대로 살고 싶어 67화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22643678" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+100						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">23</span>			피안도 48일 후 443화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22643526" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+89						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">24</span>			믿었던 동료들에게 던전 오지에서 살해당할 뻔했지만 기프트 『무한 가챠』로 레벨 9999의 동료들을 손에 넣어 전 파티 멤버와 세계에 복수&『참교육!』합니다! 162-2화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22668774" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+71						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">25</span>			죄수전생 4화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22635050" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+104						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">26</span>			내 마음속 위험한 녀석 168화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22674718" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+36						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">27</span>			살해당해 우물에 버려진 성녀가 치트 원령이 되었습니다 2-1화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22652390" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+48						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">28</span>			카미카쿠시의 낙원 27화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22642938" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+39						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">29</span>			믿었던 동료들에게 던전 오지에서 살해당할 뻔했지만 기프트 『무한 가챠』로 레벨 9999의 동료들을 손에 넣어 전 파티 멤버와 세계에 복수&『참교육!』합니다! 162-1화		</a> 
+	</li>
+	<li class="post-row">
+		<a href="https://manatoki468.net/comic/22652846" class="ellipsis">
+			 
+				<span class="pull-right gray font-12">
+											<span class="count orangered">
+							+49						</span>
+														</span>
+						<span class="rank-icon en bg-skyblue">30</span>			성스러운 소녀와 비밀스러운 일 41화		</a> 
+	</li>
+</ul>
+		<div class="clearfix"></div>
+	</div>
+	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>								</div><!-- #at-right -->
+													</div><!-- #at-wrap -->
+						<div class="clearfix"></div>
+									</div><!-- .at-content -->
+			</div><!-- .content -->
+				</div><!-- /.content-wrapper -->
+
+		<!-- Footer -->
+        <footer id="thema_footer" class="main-footer"></footer>
+
+		<!-- Control Sidebar -->
+		<aside class="control-sidebar control-sidebar-light">
+			<div class="control-sidebar-content">
+                <div id="control-sidebar-box" style="padding:10px;">
+                    <div id="sidebarList">
+
+                        <div class="sec-ion">
+                            <ul>
+                                <li>
+                                    <a href="https://manatoki468.net/attendance">
+                                        <i class="ion-ios-timer-outline"></i>
+                                        <span>출석부</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://manatoki468.net/bbs/qalist.php">
+                                        <i class="ion-ios-locked-outline"></i>
+                                        <span>1:1 문의</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://manatoki468.net/notice">
+                                        <i class="ion-ios-information-outline"></i>
+                                        <span>공지사항</span>
+                                    </a>
+                                </li>
+                            </ul>
+                            <div class="clearfix"></div>
+                        </div>
+
+                                                <div class="div-title-underbar" style="margin-top: 10px;">
+                            <span class="div-title-underbar-bold border-green"><b>최근 본 만화</b></span>
+                        </div>
+                        <div class="main-box">
+                            <ul style="list-style:none; padding:0; margin:0">
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22694078" class="ellipsis" title="책벌레의 하극상 3부 46화">
+            <span class="rank-icon en bg-red">1</span>
+            책벌레의 하극상 3부 46화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=15162260" class="ellipsis" title="이세계 사무라이 1화">
+            <span class="rank-icon en bg-red">2</span>
+            이세계 사무라이 1화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22677790" class="ellipsis" title="첫 섹파 3화">
+            <span class="rank-icon en bg-red">3</span>
+            첫 섹파 3화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22425950" class="ellipsis" title="첫 섹파 1화">
+            <span class="rank-icon en bg-red">4</span>
+            첫 섹파 1화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22620006" class="ellipsis" title="남녀비 1:39의 평행세계는 의외로 평범 223화">
+            <span class="rank-icon en bg-red">5</span>
+            남녀비 1:39의 평행세계는 의외로 평범 223화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22568014" class="ellipsis" title="남녀비 1:39의 평행세계는 의외로 평범 222화">
+            <span class="rank-icon en bg-red">6</span>
+            남녀비 1:39의 평행세계는 의외로 평범 222화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22561110" class="ellipsis" title="남녀비 1:39의 평행세계는 의외로 평범 221화">
+            <span class="rank-icon en bg-red">7</span>
+            남녀비 1:39의 평행세계는 의외로 평범 221화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22533214" class="ellipsis" title="남녀비 1:39의 평행세계는 의외로 평범 220화">
+            <span class="rank-icon en bg-red">8</span>
+            남녀비 1:39의 평행세계는 의외로 평범 220화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22495546" class="ellipsis" title="남녀비 1:39의 평행세계는 의외로 평범 219화">
+            <span class="rank-icon en bg-red">9</span>
+            남녀비 1:39의 평행세계는 의외로 평범 219화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs//board.php?bo_table=comic&wr_id=22261790" class="ellipsis" title="나와 미모사의 75일 16화">
+            <span class="rank-icon en bg-red">10</span>
+            나와 미모사의 75일 16화        </a>
+    </li>
+</ul>
+                        </div>
+                        <div class="div-title-underbar" style="margin-top: 10px;">
+                            <a href="https://manatoki468.net/bbs/bookmark_list.php">
+                                <span class="div-title-underbar-bold border-orange"><b>북마크</b></span>
+                            </a>
+                        </div>
+                        <div class="main-box">
+                            <ul style="list-style:none; padding:0; margin:0">
+    <li>
+        <a href="https://manatoki468.net/bbs/go_last.php?bo_table=comic&wr_id=20931038" class="ellipsis" title="나와 미모사의 75일">
+            <span class="font-9 gray pull-right">03.26</span>
+            <i class="fa fa-book orangered"></i>
+            나와 미모사의 75일        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs/go_last.php?bo_table=comic&wr_id=14126750" class="ellipsis" title="이무기에게 시집간 처녀">
+            <span class="font-9 gray pull-right">01.04</span>
+            <i class="fa fa-book orangered"></i>
+            이무기에게 시집간 처녀        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs/go_last.php?bo_table=comic&wr_id=520806" class="ellipsis" title="미안하지만 난 백합이 아냐">
+            <span class="font-9 gray pull-right">09.11</span>
+            <i class="fa fa-book orangered"></i>
+            미안하지만 난 백합이 아냐        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs/go_last.php?bo_table=comic&wr_id=509008" class="ellipsis" title="LV1 마왕과 원룸 용사">
+            <span class="font-9 gray pull-right">06.09</span>
+            <i class="fa fa-book orangered"></i>
+            LV1 마왕과 원룸 용사        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs/go_last.php?bo_table=comic&wr_id=5744548" class="ellipsis" title="변경살이 하는 마왕, 전생해서 최강의 마술사가 된다">
+            <span class="font-9 gray pull-right">12.27</span>
+            <i class="fa fa-book orangered"></i>
+            변경살이 하는 마왕, 전생해서 최강의 마술사가 된다        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/bbs/go_last.php?bo_table=comic&wr_id=113300" class="ellipsis" title="바라지 않는 불사의 모험자">
+            <span class="font-9 gray pull-right">11.12</span>
+            <i class="fa fa-book orangered"></i>
+            바라지 않는 불사의 모험자        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/comic/17269921" class="ellipsis" title="이세계에 갔더니 이미 여동생이 마왕으로 군림하고 있던 이야기. 1화">
+            <span class="font-9 gray pull-right">09.30</span>
+            <i class="fa fa-bookmark blue"></i>
+            이세계에 갔더니 이미 여동생이 마왕으로 군림하고 있던 이야기. 1화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/comic/16251169" class="ellipsis" title="전생하고 40년. 슬슬, 아재도 사랑이 하고 싶어 25.5화">
+            <span class="font-9 gray pull-right">06.28</span>
+            <i class="fa fa-bookmark blue"></i>
+            전생하고 40년. 슬슬, 아재도 사랑이 하고 싶어 25.5화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/comic/16251169" class="ellipsis" title="전생하고 40년. 슬슬, 아재도 사랑이 하고 싶어 25.5화">
+            <span class="font-9 gray pull-right">06.28</span>
+            <i class="fa fa-bookmark blue"></i>
+            전생하고 40년. 슬슬, 아재도 사랑이 하고 싶어 25.5화        </a>
+    </li>
+    <li>
+        <a href="https://manatoki468.net/comic/16251169" class="ellipsis" title="전생하고 40년. 슬슬, 아재도 사랑이 하고 싶어 25.5화">
+            <span class="font-9 gray pull-right">06.28</span>
+            <i class="fa fa-bookmark blue"></i>
+            전생하고 40년. 슬슬, 아재도 사랑이 하고 싶어 25.5화        </a>
+    </li>
+</ul>
+                        </div>
+                                            </div>
+                    <div class="text-center">
+                        <a href="javascript:;" data-toggle="control-sidebar">
+                            <h3 class="control-sidebar-heading no-margin">
+                                Close
+                            </h3>
+                        </a>
+                    </div>
+                </div>
+			</div>
+		</aside><!-- /.control-sidebar -->
+
+		<!-- Add the sidebar's background. This div must be placed immediately after the control sidebar -->
+		<div class="control-sidebar-bg"></div>
+	</div><!-- ./wrapper -->
+</div>
+
+<div class="at-go">
+    <div id="go-btn" class="go-btn">
+        <div id="to-menu" style="display: none">
+            <span class="go-top cursor"><i class="fa fa-chevron-up"></i></span>
+            <span class="go-bottom cursor"><i class="fa fa-chevron-down"></i></span>
+        </div>
+        <div id="to-btn">
+            <span class="to-show cursor"><i class="fa fa-plus"></i></span>
+        </div>
+    </div>
+</div>
+
+<!--[if lt IE 9]>
+<script src="https://manatoki468.net/thema/comic/assets/js/respond.js"></script>
+<![endif]-->
+
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+    _Hasync.push(['Histats.start', '1,4446128,4,0,0,0,00010000']);
+    _Hasync.push(['Histats.fasi', '1']);
+    _Hasync.push(['Histats.track_hits', '']);
+    (function() {
+        var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+        hs.src = ('//s10.histats.com/js15_as.js');
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+    })();</script>
+<noscript><a href="/" target="_blank"></a></noscript>
+<!-- Histats.com  END  -->
+
+<script>
+
+    //setTimeout(function () {
+    //    jQuery.post(g5_url + '/sso_check.php?_=//');
+    //}, 3 * 1000);
+
+    jQuery(document).ready(function(){
+
+        if(jQuery('#viewcomment').length > 0) {
+            jQuery('.go-top:first').after('<span class="go-comment cursor"><i class="fa fa-commenting"></i></span>')
+        }
+
+        jQuery(".go-comment").on('click', function() {
+            // $('html, body').animate({ scrollTop: jQuery(document).height() }, 500);
+            var toComment = jQuery('#viewcomment').offset();
+            if( toComment != undefined && toComment['top'] > 0 ) {
+                var toPosition = toComment['top'] - 60;
+            } else {
+                var toPosition = jQuery(document).height();
+            }
+            $('html, body').scrollTop(toPosition);
+            return false;
+        });
+
+        jQuery("header.main-header").sticky({topSpacing:0, zIndex: 1030});
+        jQuery("section.sidebar").sticky({topSpacing:50, getWidthFrom: '.main-sidebar'});
+        jQuery(".control-sidebar-content").sticky({topSpacing:50, getWidthFrom: '.control-sidebar', zIndex: 1030});
+
+        jQuery('.to-show').on('click', function () {
+            var is_visible = jQuery('#to-menu').is(":visible");
+            if(!is_visible){
+                jQuery('#to-btn span').css({
+                    '-webkit-transform': 'rotate(45deg)',
+                    '-moz-transform': 'rotate(45deg)',
+                    'transform': 'rotate(45deg)',
+                    'background': 'rgba(193,9,9,0.5)',
+                    'transition' : '.3s'
+                });
+                jQuery("#to-menu" ).show();
+
+                // jQuery('#to-menu').show();
+                // jQuery('#to-btn span i').addClass('fa-times').removeClass('fa-plus');
+            } else {
+                jQuery('#to-menu').hide();
+                jQuery('#to-btn span').css({
+                    '-webkit-transform': 'rotate(0deg)',
+                    '-moz-transform': 'rotate(0deg)',
+                    'transform': 'rotate(0deg)',
+                    'background': 'rgba(0,0,0,0.3)',
+                    'transition' : '.3s'
+                });
+                jQuery('#to-btn span i').addClass('fa-plus').removeClass('fa-times');
+            }
+        });
+
+    });
+</script>
+
+<script>
+	var is_miso_thema = "comic";
+	var is_response_time = "0";
+	var is_hover_sidebar = "";
+</script>
+<script src="https://manatoki468.net/thema/comic/assets/bs3/js/bootstrap.min.js"></script>
+<script src="https://manatoki468.net/thema/comic/assets/js/bootstrap-hover-dropdown.min.js"></script>
+<script src="https://manatoki468.net/thema/comic/assets/js/sly.min.js"></script>
+<script src="https://manatoki468.net/thema/comic/assets/js/slimscroll.min.js"></script>
+<script src="https://manatoki468.net/thema/comic/assets/js/fastclick.js"></script>
+<script src="https://manatoki468.net/js/jquery.playSound.js"></script>
+<script src="https://manatoki468.net/thema/comic/assets/js/layout.js"></script>
+<script src="https://manatoki468.net/thema/comic/assets/js/app.js?ver=1.5"></script>
+<script src="https://manatoki468.net/thema/comic/assets/js/custom.js?ver=1.2"></script>
+
+
+
+
+
+<!-- 아미나빌더 1.8.46 / 그누보드 5.3.3.3(패치 G5.4.5.4) -->
+<!-- ie6,7에서 사이드뷰가 게시판 목록에서 아래 사이드뷰에 가려지는 현상 수정 -->
+<!--[if lte IE 7]>
+<script>
+$(function() {
+    var $sv_use = $(".sv_use");
+    var count = $sv_use.length;
+
+    $sv_use.each(function() {
+        $(this).css("z-index", count);
+        $(this).css("position", "relative");
+        count = count - 1;
+    });
+});
+</script>
+<![endif]-->
+
+
+</body>
+</html>
+
+<!-- 사용스킨 : toki_comic -->
